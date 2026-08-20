@@ -1,0 +1,67 @@
+/* Preserved Figma Layer: Keyboard shortcuts (id: 2105:3494) */
+.figma-shortcuts {
+  background-color: var(--uedp-white, #FFFFFF);
+  border: 1px solid var(--uedp-slate-200, #E2E8F0);
+  border-radius: var(--uedp-rounded-xl, 12px);
+  padding: var(--uedp-padding-5, 20px);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  width: 100%;
+  max-width: 440px;
+}
+
+.figma-shortcuts__header {
+  display: flex;
+  align-items: center;
+  gap: var(--uedp-gap-2, 8px);
+  margin-bottom: var(--uedp-gap-4, 16px);
+  padding-bottom: var(--uedp-gap-2, 8px);
+  border-bottom: 1px solid var(--uedp-slate-100, #F1F5F9);
+}
+
+.figma-shortcuts__icon {
+  font-size: 16px;
+}
+
+.figma-shortcuts__title {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--uedp-slate-900, #0F172A);
+}
+
+.figma-shortcuts__list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--uedp-gap-3, 12px);
+}
+
+.figma-shortcuts__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--uedp-gap-4, 16px);
+}
+
+.figma-shortcuts__desc {
+  font-size: 13px;
+  color: var(--uedp-slate-700, #334155);
+}
+
+.figma-shortcuts__keys {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.figma-shortcuts__key {
+  display: inline-block;
+  padding: 3px 7px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--uedp-slate-800, #1E293B);
+  background-color: var(--uedp-slate-100, #F1F5F9);
+  border: 1px solid var(--uedp-slate-300, #CBD5E1);
+  border-bottom-width: 2px;
+  border-radius: var(--uedp-rounded, 4px);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}

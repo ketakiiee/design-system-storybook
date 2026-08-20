@@ -1,0 +1,84 @@
+/* Preserved Figma Layers: AI RIDE ASSISTANCE, AI SAFETY GUARDIAN, AI EMERGENCY COMPANION */
+.figma-ai-card {
+  background-color: var(--uedp-white, #FFFFFF);
+  border: 1px solid var(--uedp-slate-200, #E2E8F0);
+  border-radius: var(--uedp-rounded-xl, 12px);
+  padding: var(--uedp-padding-6, 24px);
+  display: flex;
+  flex-direction: column;
+  gap: var(--uedp-gap-4, 16px);
+  width: 100%;
+  max-width: 340px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease-in-out;
+  box-sizing: border-box;
+}
+
+.figma-ai-card:hover, .figma-ai-card--active {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 20px -3px rgba(0, 0, 0, 0.08);
+}
+
+.figma-ai-card--ai-ride-assistance:hover, .figma-ai-card--ai-ride-assistance.figma-ai-card--active {
+  border-color: var(--uedp-blue-400, #60A5FA);
+}
+
+.figma-ai-card--ai-safety-guardian:hover, .figma-ai-card--ai-safety-guardian.figma-ai-card--active {
+  border-color: var(--uedp-emerald-400, #34D399);
+}
+
+.figma-ai-card--ai-emergency-companion:hover, .figma-ai-card--ai-emergency-companion.figma-ai-card--active {
+  border-color: var(--uedp-red-400, #F87171);
+}
+
+.figma-ai-card__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.figma-ai-card__icon {
+  font-size: 24px;
+}
+
+.figma-ai-card__badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: var(--uedp-rounded-full, 9999px);
+  background-color: var(--uedp-slate-100, #F1F5F9);
+  color: var(--uedp-slate-700, #334155);
+}
+
+.figma-ai-card__title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--uedp-slate-900, #0F172A);
+  letter-spacing: -0.01em;
+}
+
+.figma-ai-card__features {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--uedp-gap-2, 8px);
+}
+
+.figma-ai-card__feature-item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--uedp-gap-2, 8px);
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--uedp-slate-600, #475569);
+}
+
+.figma-ai-card__check {
+  color: var(--uedp-blue-600, #2563EB);
+  display: flex;
+  align-items: center;
+  margin-top: 2px;
+  flex-shrink: 0;
+}

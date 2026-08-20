@@ -1,0 +1,18 @@
+/* Preserved Figma Layer: Icons (ids: 2182:846, 2182:852, etc.) */
+.figma-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  color: var(--uedp-slate-700, #334155);
+  transition: color 0.15s ease, transform 0.15s ease;
+}
+
+.figma-icon--clickable {
+  cursor: pointer;
+}
+
+.figma-icon--clickable:hover {
+  color: var(--uedp-blue-600, #2563EB);
+  transform: scale(1.1);
+}

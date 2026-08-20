@@ -1,0 +1,2137 @@
+{
+  "name": "empty to work",
+  "lastModified": "2026-08-17T05:55:35Z",
+  "pages": [
+    {
+      "name": "self_assessment",
+      "id": "0:1",
+      "topLevelCount": 10,
+      "topLevelNodes": [
+        {
+          "id": "2004:2",
+          "name": "Slide 16:9 - 1",
+          "type": "FRAME",
+          "childrenCount": 76
+        },
+        {
+          "id": "2010:29",
+          "name": "ASSIGNMENT 01 SELF ASSESSMENT",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2010:30",
+          "name": "KETAKI HARIDAS . CONTEMPERORY TREND IN USER EXPERIENCE DESIGN",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2010:31",
+          "name": "I graduate today with a degree in design. Ten years later, I enter a design studio. But the studio has changed. AI agents can: • Generate 100 interface concepts in seconds. • Build functional prototypes instantly. • Conduct thousands of simulated usability tests. • Write production-ready code. • Create and maintain design systems. • Analyze user research and identify patterns. • Personalize experiences for every individual user.",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2010:34",
+          "name": "Ellipse 3",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2010:35",
+          "name": "Ellipse 4",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2006:9",
+          "name": "Creative Presentation",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2006:10",
+          "name": "Presented By: Ramy Ayman",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2006:19",
+          "name": "Art Director",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2006:12",
+          "name": "image 3",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        }
+      ]
+    },
+    {
+      "name": "Page 5",
+      "id": "2189:2",
+      "topLevelCount": 1,
+      "topLevelNodes": [
+        {
+          "id": "2192:2",
+          "name": "Slide 16:9 - 1",
+          "type": "FRAME",
+          "childrenCount": 0
+        }
+      ]
+    },
+    {
+      "name": "Page 4",
+      "id": "2135:2",
+      "topLevelCount": 6,
+      "topLevelNodes": [
+        {
+          "id": "2169:818",
+          "name": "iPhone 16 - 1",
+          "type": "FRAME",
+          "childrenCount": 4
+        },
+        {
+          "id": "2169:819",
+          "name": "iPhone 16 - 2",
+          "type": "FRAME",
+          "childrenCount": 1
+        },
+        {
+          "id": "2169:820",
+          "name": "iPhone 16 - 3",
+          "type": "FRAME",
+          "childrenCount": 1
+        },
+        {
+          "id": "2170:850",
+          "name": "Button",
+          "type": "COMPONENT_SET",
+          "childrenCount": 2,
+          "componentPropertyDefinitions": {
+            "label#2181:3": {
+              "type": "TEXT",
+              "defaultValue": "Button"
+            },
+            "state": {
+              "type": "VARIANT",
+              "defaultValue": "Default",
+              "variantOptions": [
+                "Default",
+                "Variant2"
+              ]
+            }
+          }
+        },
+        {
+          "id": "2182:846",
+          "name": "lucide/share",
+          "type": "FRAME",
+          "childrenCount": 1
+        },
+        {
+          "id": "2182:852",
+          "name": "lucide/cloud-download",
+          "type": "FRAME",
+          "childrenCount": 1
+        }
+      ]
+    },
+    {
+      "name": "Page 3",
+      "id": "2105:2",
+      "topLevelCount": 56,
+      "topLevelNodes": [
+        {
+          "id": "2105:253",
+          "name": "Help center documentation",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:367",
+          "name": "Auto Layout resources",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:7af6e37f5042e28a2f0280d258ec3e54911428cb/66:4"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:452",
+          "name": "Reorder the stack",
+          "type": "SECTION",
+          "childrenCount": 4
+        },
+        {
+          "id": "2105:496",
+          "name": "Resize a card, and have its contents expand",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:534",
+          "name": "Including stroke values",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:591",
+          "name": "Canvas stacking",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:632",
+          "name": "Text truncation",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:670",
+          "name": "Text baseline alignment",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:702",
+          "name": "Additional settings",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:7af6e37f5042e28a2f0280d258ec3e54911428cb/66:4"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:725",
+          "name": "Adjust placement of absolute items",
+          "type": "SECTION",
+          "childrenCount": 5
+        },
+        {
+          "id": "2105:779",
+          "name": "Toggle absolute position",
+          "type": "SECTION",
+          "childrenCount": 5
+        },
+        {
+          "id": "2105:826",
+          "name": "Ignoring Auto Layout? Use constraints",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:871",
+          "name": "Identify items that ignore Auto Layout",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:893",
+          "name": "Ignoring Auto Layout",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:955",
+          "name": "Absolute positioning",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:7af6e37f5042e28a2f0280d258ec3e54911428cb/66:4"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:977",
+          "name": "Apply negative spacing",
+          "type": "SECTION",
+          "childrenCount": 4
+        },
+        {
+          "id": "2105:1017",
+          "name": "Adjust spacing and padding on canvas",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:1073",
+          "name": "Change spacing modes and alignment",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:1129",
+          "name": "Adjust direction",
+          "type": "SECTION",
+          "childrenCount": 6
+        },
+        {
+          "id": "2105:1173",
+          "name": "Auto spacing",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:1217",
+          "name": "(Gap) Spacing",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:1256",
+          "name": "Padding",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:1947",
+          "name": "Alignment",
+          "type": "SECTION",
+          "childrenCount": 4
+        },
+        {
+          "id": "2105:1987",
+          "name": "Direction",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:2045",
+          "name": "Direction, spacing, and padding",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:7af6e37f5042e28a2f0280d258ec3e54911428cb/66:4"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2069",
+          "name": "Make a card expand to fit its content",
+          "type": "SECTION",
+          "childrenCount": 4
+        },
+        {
+          "id": "2105:2122",
+          "name": "Maximum Width",
+          "type": "SECTION",
+          "childrenCount": 3,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:461d019c83bac35af7bc296f24097c6ba69e992c/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2160",
+          "name": "Minimum Width",
+          "type": "SECTION",
+          "childrenCount": 3,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:461d019c83bac35af7bc296f24097c6ba69e992c/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2200",
+          "name": "Resize nested items",
+          "type": "SECTION",
+          "childrenCount": 5,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:461d019c83bac35af7bc296f24097c6ba69e992c/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2244",
+          "name": "Constraints for resizing",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:2291",
+          "name": "Maximum Width",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:2343",
+          "name": "Minimum Width",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:2394",
+          "name": "Fill container",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:2437",
+          "name": "Fixed sizes",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:2482",
+          "name": "Hug contents",
+          "type": "SECTION",
+          "childrenCount": 4
+        },
+        {
+          "id": "2105:2526",
+          "name": "Flexible resizing",
+          "type": "SECTION",
+          "childrenCount": 3
+        },
+        {
+          "id": "2105:2560",
+          "name": "Resizing and alignment",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:7af6e37f5042e28a2f0280d258ec3e54911428cb/66:4"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2579",
+          "name": "Auto Layout instance control",
+          "type": "SECTION",
+          "childrenCount": 5,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:461d019c83bac35af7bc296f24097c6ba69e992c/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2619",
+          "name": "Add and  reorder items",
+          "type": "SECTION",
+          "childrenCount": 3,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:461d019c83bac35af7bc296f24097c6ba69e992c/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2673",
+          "name": "Make an expandable search bar",
+          "type": "SECTION",
+          "childrenCount": 3,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:461d019c83bac35af7bc296f24097c6ba69e992c/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2712",
+          "name": "Components and nested Auto Layout",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:461d019c83bac35af7bc296f24097c6ba69e992c/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2780",
+          "name": "Nesting into Auto Layout frames",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:2827",
+          "name": "Auto Layout children",
+          "type": "SECTION",
+          "childrenCount": 3,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:461d019c83bac35af7bc296f24097c6ba69e992c/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2887",
+          "name": "Adjustments on the canvas",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:461d019c83bac35af7bc296f24097c6ba69e992c/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2961",
+          "name": "Auto Layout settings and controls",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:461d019c83bac35af7bc296f24097c6ba69e992c/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:2983",
+          "name": "Basics",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:7af6e37f5042e28a2f0280d258ec3e54911428cb/66:4"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:3011",
+          "name": "Let Figma suggest Auto Layout frames",
+          "type": "SECTION",
+          "childrenCount": 6
+        },
+        {
+          "id": "2105:3083",
+          "name": "Suggest Auto Layout",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:3129",
+          "name": "Auto Layout frames",
+          "type": "SECTION",
+          "childrenCount": 9
+        },
+        {
+          "id": "2105:3191",
+          "name": "Removing Auto Layout",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:3246",
+          "name": "Enabling Auto Layout frames",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:3331",
+          "name": "Introduction to Auto Layout",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:3373",
+          "name": "Contents",
+          "type": "SECTION",
+          "childrenCount": 2
+        },
+        {
+          "id": "2105:3394",
+          "name": "Choose your current Figma UI",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:93867aa9f41c049e086d0e10123597d987348784/66:0"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:3409",
+          "name": "Auto Layout",
+          "type": "SECTION",
+          "childrenCount": 2,
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:7af6e37f5042e28a2f0280d258ec3e54911428cb/66:4"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2105:3494",
+          "name": "Keyboard shortcuts",
+          "type": "FRAME",
+          "childrenCount": 1
+        }
+      ]
+    },
+    {
+      "name": "AI Integration",
+      "id": "2040:2",
+      "topLevelCount": 250,
+      "topLevelNodes": [
+        {
+          "id": "2040:3",
+          "name": "A1",
+          "type": "FRAME",
+          "childrenCount": 248
+        },
+        {
+          "id": "2086:114",
+          "name": "Mask group",
+          "type": "GROUP",
+          "childrenCount": 2
+        },
+        {
+          "id": "2086:117",
+          "name": "image 64",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:118",
+          "name": "image 65",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:119",
+          "name": "image 66",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:120",
+          "name": "image 67",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:121",
+          "name": "Mask group",
+          "type": "GROUP",
+          "childrenCount": 2
+        },
+        {
+          "id": "2086:124",
+          "name": "image 68",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:125",
+          "name": "image 69",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2118:1037",
+          "name": "image 72",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2120:1042",
+          "name": "image 74",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2120:1046",
+          "name": "image 76",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2122:1050",
+          "name": "image 78",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2122:1054",
+          "name": "image 80",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2122:1058",
+          "name": "image 82",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2122:1062",
+          "name": "image 84",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2122:1066",
+          "name": "image 86",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:126",
+          "name": "image 70",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:127",
+          "name": "image 71",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2043:2",
+          "name": "EXAMPLE",
+          "type": "FRAME",
+          "childrenCount": 107
+        },
+        {
+          "id": "2086:2",
+          "name": "DF",
+          "type": "FRAME",
+          "childrenCount": 5
+        },
+        {
+          "id": "2153:295",
+          "name": "AI INTEGRATION_KETAKI2",
+          "type": "FRAME",
+          "childrenCount": 5
+        },
+        {
+          "id": "2086:40",
+          "name": "Reactive safety measures SOS depends on user No anomaly detection no real time monitoring Limited emergency assistance",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:41",
+          "name": "Repetitive destination entry Poor driver compatibility No intelligent recommendations Too many manual steps No proactive suggestions",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:42",
+          "name": "Rectangle 652",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:43",
+          "name": "Rectangle 653",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:44",
+          "name": "Line 68",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:45",
+          "name": "Line 69",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:46",
+          "name": "SAFETY",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:47",
+          "name": "CONVINIENCE",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:48",
+          "name": "Rectangle 650",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:49",
+          "name": "03",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:50",
+          "name": "PAIN POINT ANALYSIS",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:51",
+          "name": "Same preferences selected every ride Generic ride experiences No contextual understanding No memory of past behaviour",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:52",
+          "name": "Rectangle 651",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:53",
+          "name": "Rectangle 656",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:54",
+          "name": "Line 32",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:55",
+          "name": "Line 67",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:56",
+          "name": "PERSONALIZATION",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:68",
+          "name": "Ellipse 30",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:65",
+          "name": "Ellipse 25",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:66",
+          "name": "Ellipse 26",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:67",
+          "name": "Ellipse 27",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:60",
+          "name": "Generic ride feedback does not improve future experiences",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:109",
+          "name": "image 60",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:10",
+          "name": "Learns your behavior & preferences Voice & context interaction Suggests ideal ride & settings Savs preferences & routines Predicts best time & route",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:11",
+          "name": "AI RIDE ASSISTANCE",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:12",
+          "name": "AI SAFETY GUARDIAN",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:13",
+          "name": "Uber AI+",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:14",
+          "name": "AI EMERGENCY COMPANION",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:15",
+          "name": "Continuos ride monitoring Driver behavior analysis Route deviation detection Speed & anamoly alerts Proactive safety check ins Safety score in real time",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:16",
+          "name": "Silent emergency mode Instant assistance & alerts Shares live location notifies trusted contacts AI powered emergency support",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:17",
+          "name": "Rectangle 661",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:18",
+          "name": "Rectangle 662",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:19",
+          "name": "Rectangle 663",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:20",
+          "name": "Rectangle 664",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:21",
+          "name": "Line 128",
+          "type": "VECTOR",
+          "childrenCount": 0
+        },
+        {
+          "id": "2085:22",
+          "name": "Line 129",
+          "type": "VECTOR",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:3",
+          "name": "Rectangle 649",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:4",
+          "name": "Line 67",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:6",
+          "name": "Line 68",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:7",
+          "name": "Line 69",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:8",
+          "name": "Line 67",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:9",
+          "name": "STAGE",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:10",
+          "name": "Open App",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:11",
+          "name": "Enetr Destination",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:12",
+          "name": "Choose Ride",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:13",
+          "name": "Driver Assigned",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:14",
+          "name": "Ride Starts",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:15",
+          "name": "Ride Experience",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:16",
+          "name": "Ride Ends",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:17",
+          "name": "Feedback",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:18",
+          "name": "Share experience",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:19",
+          "name": "Complete trip",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:20",
+          "name": "Reach safety & comfortably",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:21",
+          "name": "Begin journey",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:22",
+          "name": "Get a reliable driver",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:23",
+          "name": "USER GOAL",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:24",
+          "name": "Select the best option",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:25",
+          "name": "Set where to go",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:26",
+          "name": "Start a ride",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:27",
+          "name": "EMOTION",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:28",
+          "name": "PAIN POINT",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:29",
+          "name": "Ratings don’t improve future rides",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:30",
+          "name": "Feedback not personalised",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:31",
+          "name": "Safety only reacts after issues",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:32",
+          "name": "Driver doesn’t know my expectations",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:33",
+          "name": "Uncertainty about driver",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:34",
+          "name": "Repetitive manual preferences",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:35",
+          "name": "Repetitive location inputs",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:36",
+          "name": "No context awareness",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:37",
+          "name": "Rectangle 649",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:38",
+          "name": "02",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2086:39",
+          "name": "CURRENT USER JOURNEY MAP",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2074:130",
+          "name": "WE",
+          "type": "FRAME",
+          "childrenCount": 115
+        },
+        {
+          "id": "2153:63",
+          "name": "AI INTEGRATION_KETAKI",
+          "type": "FRAME",
+          "childrenCount": 115
+        },
+        {
+          "id": "2127:2",
+          "name": "EXAMPLE",
+          "type": "FRAME",
+          "childrenCount": 107
+        },
+        {
+          "id": "2065:7",
+          "name": "image 61",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2062:400",
+          "name": "ChatGPT Image Jul 24, 2026, 02_52_50 PM 1",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2079:3",
+          "name": "Line 75",
+          "type": "VECTOR",
+          "childrenCount": 0
+        },
+        {
+          "id": "2079:4",
+          "name": "Ellipse 33",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2079:5",
+          "name": "Ellipse 34",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2079:6",
+          "name": "Ellipse 35",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2079:7",
+          "name": "Ellipse 36",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2079:8",
+          "name": "Ellipse 37",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2079:9",
+          "name": "Ellipse 38",
+          "type": "ELLIPSE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:275",
+          "name": "Rectangle 649",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:276",
+          "name": "Line 67",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:277",
+          "name": "Line 68",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:278",
+          "name": "Line 69",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:279",
+          "name": "Line 67",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:280",
+          "name": "STAGE",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:281",
+          "name": "Open App",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:282",
+          "name": "Enetr Destination",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:283",
+          "name": "Choose Ride",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:284",
+          "name": "Driver Assigned",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:285",
+          "name": "Ride Starts",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:286",
+          "name": "Ride Experience",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:287",
+          "name": "Ride Ends",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:288",
+          "name": "Feedback",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:289",
+          "name": "Share experience",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:290",
+          "name": "Complete trip",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:291",
+          "name": "Reach safety & comfortably",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:292",
+          "name": "Begin journey",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:293",
+          "name": "Get a reliable driver",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:294",
+          "name": "USER GOAL",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:295",
+          "name": "Select the best option",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:296",
+          "name": "Set where to go",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:297",
+          "name": "Start a ride",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:298",
+          "name": "EMOTION",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:299",
+          "name": "PAIN POINT",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:300",
+          "name": "Ratings don’t improve future rides",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:301",
+          "name": "Feedback not personalised",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:302",
+          "name": "Safety only reacts after issues",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:303",
+          "name": "Driver doesn’t know my expectations",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:304",
+          "name": "Uncertainty about driver",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:305",
+          "name": "Repetitive manual preferences",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:306",
+          "name": "Repetitive location inputs",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:307",
+          "name": "No context awareness",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:308",
+          "name": "Rectangle 649",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:309",
+          "name": "Rectangle 655",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:310",
+          "name": "Rectangle 650",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:311",
+          "name": "02",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:312",
+          "name": "03",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:313",
+          "name": "02",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:314",
+          "name": "CURRENT USER JOURNEY MAP",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:315",
+          "name": "AI OPPORTUNITY FRAMEWORK",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:316",
+          "name": "PAIN POINT ANALYSIS",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:317",
+          "name": "Same preferences selected every ride Generic ride experiences No contextual understanding No memory of past behaviour",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:318",
+          "name": "Reactive safety measures SOS depends on user No anomaly detection no real time monitoring Limited emergency assistance",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:319",
+          "name": "Repetitive destination entry Poor driver compatibility No intelligent recommendations Too many manual steps No proactive suggestions",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:320",
+          "name": "Rectangle 651",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:321",
+          "name": "Rectangle 652",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:322",
+          "name": "Rectangle 653",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:323",
+          "name": "Line 32",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:324",
+          "name": "Line 67",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:325",
+          "name": "Line 68",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:326",
+          "name": "Line 69",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:327",
+          "name": "Personalization",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:328",
+          "name": "SAFETY",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:329",
+          "name": "CONVINIENCE",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:330",
+          "name": "Line 58",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:331",
+          "name": "Line 59",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:332",
+          "name": "Line 60",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:333",
+          "name": "Line 61",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:334",
+          "name": "Line 62",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:335",
+          "name": "Line 71",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:336",
+          "name": "Line 72",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:337",
+          "name": "Line 67",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:338",
+          "name": "Line 68",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:339",
+          "name": "Line 69",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:340",
+          "name": "Line 70",
+          "type": "LINE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:341",
+          "name": "Repeated Preferences & Manual Setup",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:342",
+          "name": "Behaviour learning context learning preferences memory",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:343",
+          "name": "Real time risk detection anomay detection driver beahvior analysis",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:344",
+          "name": "Predictive Assistance situation detection crisis prediction",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:345",
+          "name": "Machine learning demand prediction ETA prediction",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:346",
+          "name": "NLP & context awareness language understanding",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:347",
+          "name": "Predict user intent & suggest preferences based on history, context time & location",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:348",
+          "name": "AI Ride Assistant",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:349",
+          "name": "No manual setup. Personalized ride every time",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:350",
+          "name": "Continuous protection and peace of mind",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:351",
+          "name": "Faster help, trusted contacts notified instantly",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:352",
+          "name": "Better matches, less cancellation, higher satisfaction",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:353",
+          "name": "Hands free effortless interaction",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:354",
+          "name": "AI Safety Guardian",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:355",
+          "name": "AI Emergency Companion",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:356",
+          "name": "AI Smart Match",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:357",
+          "name": "AI Voice Assistant",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:358",
+          "name": "Monitor driver behavior route, speed & environment in real time",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:359",
+          "name": "Detect anomaly or danger and trigger instant assistance",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:360",
+          "name": "Recommend best ride type & driver based on match score & conditions",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:361",
+          "name": "Understand natural language & provide intelligent responses",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:362",
+          "name": "Unsafe Ride Situations",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:363",
+          "name": "Emergency during ride",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:364",
+          "name": "Uncertainty in ride choice",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:365",
+          "name": "Unnecessary Communication",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:366",
+          "name": "USER PROBLEM",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:367",
+          "name": "AI CAPABILITY",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:368",
+          "name": "AI DECISION",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:369",
+          "name": "PROPOSED FEATURE",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:370",
+          "name": "USER BENEFIT",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:170",
+          "name": "EXAMPLE",
+          "type": "FRAME",
+          "childrenCount": 3
+        },
+        {
+          "id": "2059:153",
+          "name": "Open App",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:25",
+          "name": "Key Metrics (Prior-Redesign)",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:26",
+          "name": "User",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:27",
+          "name": "User 1",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:28",
+          "name": "18",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:29",
+          "name": "0",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:30",
+          "name": "5",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:31",
+          "name": "1",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:32",
+          "name": "6",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:33",
+          "name": "0",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:34",
+          "name": "5",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:35",
+          "name": "1",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:36",
+          "name": "7",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:37",
+          "name": "0",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:38",
+          "name": "5",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:39",
+          "name": "22",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:40",
+          "name": "16",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:41",
+          "name": "24",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:42",
+          "name": "17",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:43",
+          "name": "User 2",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:44",
+          "name": "User 3",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:45",
+          "name": "User 4",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:46",
+          "name": "User 5",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:47",
+          "name": "Time (sec)",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:48",
+          "name": "Errors",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:49",
+          "name": "Total Clicks",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2049:51",
+          "name": "mdi:tick-circle-outline",
+          "type": "FRAME",
+          "childrenCount": 1
+        },
+        {
+          "id": "2049:53",
+          "name": "mdi:tick-circle-outline",
+          "type": "FRAME",
+          "childrenCount": 1
+        },
+        {
+          "id": "2049:55",
+          "name": "mdi:tick-circle-outline",
+          "type": "FRAME",
+          "childrenCount": 1
+        },
+        {
+          "id": "2049:57",
+          "name": "mdi:tick-circle-outline",
+          "type": "FRAME",
+          "childrenCount": 1
+        },
+        {
+          "id": "2049:59",
+          "name": "mdi:tick-circle-outline",
+          "type": "FRAME",
+          "childrenCount": 1
+        },
+        {
+          "id": "2050:92",
+          "name": "Rectangle 650",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2043:4",
+          "name": "ChatGPT Image Jul 24, 2026, 06_44_19 AM 1",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:376",
+          "name": "Learns your behavior & preferences Voice & context interaction Suggests ideal ride & settings Savs preferences & routines Predicts best time & route",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:382",
+          "name": "AI RIDE ASSISTANCE",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:388",
+          "name": "AI SAFETY GUARDIAN",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:391",
+          "name": "Uber AI+",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:389",
+          "name": "AI EMERGENCY COMPANION",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:378",
+          "name": "Continuos ride monitoring Driver behavior analysis Route deviation detection Speed & anamoly alerts Proactive safety check ins Safety score in real time",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:380",
+          "name": "Silent emergency mode Instant assistance & alerts Shares live location notifies trusted contacts AI powered emergency support",
+          "type": "TEXT",
+          "childrenCount": 0
+        },
+        {
+          "id": "2060:377",
+          "name": "Rectangle 657",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:379",
+          "name": "Rectangle 658",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:381",
+          "name": "Rectangle 659",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:390",
+          "name": "Rectangle 660",
+          "type": "RECTANGLE",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:394",
+          "name": "Line 126",
+          "type": "VECTOR",
+          "childrenCount": 0
+        },
+        {
+          "id": "2061:396",
+          "name": "Line 127",
+          "type": "VECTOR",
+          "childrenCount": 0
+        },
+        {
+          "id": "2117:965",
+          "name": "Html → Body",
+          "type": "FRAME",
+          "childrenCount": 3
+        }
+      ]
+    }
+  ]
+}

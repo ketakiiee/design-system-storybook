@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "appType": "fintech",
+    "audience": "enterprise",
+    "brandPersonality": ["minimal", "clean", "precise"],
+    "primaryColor": "blue",
+    "ctaShade": 600,
+    "neutralFamily": "slate",
+    "note": "Values below are ALIASES pointing to your base palette (e.g. 'slate/900' = the 900 shade in your slate ramp). Swap 'blue' and 'slate' for your actual base family names if different."
+  },
+  "text": {
+    "primary":   { "value": "slate/900", "type": "color" },
+    "secondary": { "value": "slate/700", "type": "color" },
+    "muted":     { "value": "slate/500", "type": "color" },
+    "inverse":   { "value": "slate/50",  "type": "color" },
+    "link":      { "value": "blue/600",  "type": "color" }
+  },
+  "surface": {
+    "primary":   { "value": "white",      "type": "color" },
+    "secondary": { "value": "slate/50",   "type": "color" },
+    "tertiary":  { "value": "slate/100",  "type": "color" },
+    "inverse":   { "value": "slate/900",  "type": "color" },
+    "elevated":  { "value": "white",      "type": "color", "note": "pair with elevation shadow token, not a color change" }
+  },
+  "border": {
+    "default": { "value": "slate/200", "type": "color" },
+    "strong":  { "value": "slate/300", "type": "color" },
+    "focus":   { "value": "blue/600",  "type": "color" }
+  },
+  "interactive": {
+    "default":  { "value": "blue/600",  "type": "color" },
+    "hover":    { "value": "blue/700",  "type": "color" },
+    "pressed":  { "value": "blue/800",  "type": "color" },
+    "disabled": { "value": "slate/300", "type": "color" }
+  },
+  "feedback": {
+    "success": {
+      "bg":     { "value": "green/50",  "type": "color" },
+      "text":   { "value": "green/700", "type": "color" },
+      "border": { "value": "green/200", "type": "color" }
+    },
+    "warning": {
+      "bg":     { "value": "amber/50",  "type": "color" },
+      "text":   { "value": "amber/700", "type": "color" },
+      "border": { "value": "amber/200", "type": "color" }
+    },
+    "error": {
+      "bg":     { "value": "red/50",  "type": "color" },
+      "text":   { "value": "red/700", "type": "color" },
+      "border": { "value": "red/200", "type": "color" }
+    },
+    "info": {
+      "bg":     { "value": "blue/50",  "type": "color" },
+      "text":   { "value": "blue/700", "type": "color" },
+      "border": { "value": "blue/200", "type": "color" }
+    }
+  }
+}

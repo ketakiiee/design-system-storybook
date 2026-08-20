@@ -1,0 +1,3889 @@
+{
+  "colors": {
+    "base": {
+      "black": {
+        "cssVar": "--uedp-black",
+        "value": "#000000",
+        "varId": "VariableID:137:1303"
+      },
+      "white": {
+        "cssVar": "--uedp-white",
+        "value": "#FFFFFF",
+        "varId": "VariableID:137:1304"
+      }
+    },
+    "slate": {
+      "50": {
+        "cssVar": "--uedp-slate-50",
+        "value": "#F8FAFC",
+        "varId": "VariableID:137:1305"
+      },
+      "100": {
+        "cssVar": "--uedp-slate-100",
+        "value": "#F1F5F9",
+        "varId": "VariableID:137:1306"
+      },
+      "200": {
+        "cssVar": "--uedp-slate-200",
+        "value": "#E2E8F0",
+        "varId": "VariableID:137:1307"
+      },
+      "300": {
+        "cssVar": "--uedp-slate-300",
+        "value": "#CBD5E1",
+        "varId": "VariableID:137:1308"
+      },
+      "400": {
+        "cssVar": "--uedp-slate-400",
+        "value": "#94A3B8",
+        "varId": "VariableID:137:1309"
+      },
+      "500": {
+        "cssVar": "--uedp-slate-500",
+        "value": "#64748B",
+        "varId": "VariableID:137:1310"
+      },
+      "600": {
+        "cssVar": "--uedp-slate-600",
+        "value": "#475569",
+        "varId": "VariableID:137:1311"
+      },
+      "700": {
+        "cssVar": "--uedp-slate-700",
+        "value": "#334155",
+        "varId": "VariableID:137:1312"
+      },
+      "800": {
+        "cssVar": "--uedp-slate-800",
+        "value": "#1E293B",
+        "varId": "VariableID:137:1313"
+      },
+      "900": {
+        "cssVar": "--uedp-slate-900",
+        "value": "#0F172A",
+        "varId": "VariableID:137:1314"
+      },
+      "950": {
+        "cssVar": "--uedp-slate-950",
+        "value": "#020617",
+        "varId": "VariableID:137:1315"
+      }
+    },
+    "gray": {
+      "50": {
+        "cssVar": "--uedp-gray-50",
+        "value": "#F9FAFB",
+        "varId": "VariableID:137:1316"
+      },
+      "100": {
+        "cssVar": "--uedp-gray-100",
+        "value": "#F3F4F6",
+        "varId": "VariableID:137:1317"
+      },
+      "200": {
+        "cssVar": "--uedp-gray-200",
+        "value": "#E5E7EB",
+        "varId": "VariableID:137:1318"
+      },
+      "300": {
+        "cssVar": "--uedp-gray-300",
+        "value": "#D1D5DB",
+        "varId": "VariableID:137:1319"
+      },
+      "400": {
+        "cssVar": "--uedp-gray-400",
+        "value": "#9CA3AF",
+        "varId": "VariableID:137:1320"
+      },
+      "500": {
+        "cssVar": "--uedp-gray-500",
+        "value": "#6B7280",
+        "varId": "VariableID:137:1321"
+      },
+      "600": {
+        "cssVar": "--uedp-gray-600",
+        "value": "#4B5563",
+        "varId": "VariableID:137:1322"
+      },
+      "700": {
+        "cssVar": "--uedp-gray-700",
+        "value": "#374151",
+        "varId": "VariableID:137:1323"
+      },
+      "800": {
+        "cssVar": "--uedp-gray-800",
+        "value": "#1F2937",
+        "varId": "VariableID:137:1324"
+      },
+      "900": {
+        "cssVar": "--uedp-gray-900",
+        "value": "#111827",
+        "varId": "VariableID:137:1325"
+      },
+      "950": {
+        "cssVar": "--uedp-gray-950",
+        "value": "#030712",
+        "varId": "VariableID:137:1326"
+      }
+    },
+    "zinc": {
+      "50": {
+        "cssVar": "--uedp-zinc-50",
+        "value": "#FAFAFA",
+        "varId": "VariableID:137:1327"
+      },
+      "100": {
+        "cssVar": "--uedp-zinc-100",
+        "value": "#F4F4F5",
+        "varId": "VariableID:137:1328"
+      },
+      "200": {
+        "cssVar": "--uedp-zinc-200",
+        "value": "#E4E4E7",
+        "varId": "VariableID:137:1329"
+      },
+      "300": {
+        "cssVar": "--uedp-zinc-300",
+        "value": "#D4D4D8",
+        "varId": "VariableID:137:1330"
+      },
+      "400": {
+        "cssVar": "--uedp-zinc-400",
+        "value": "#A1A1AA",
+        "varId": "VariableID:137:1331"
+      },
+      "500": {
+        "cssVar": "--uedp-zinc-500",
+        "value": "#71717A",
+        "varId": "VariableID:137:1332"
+      },
+      "600": {
+        "cssVar": "--uedp-zinc-600",
+        "value": "#52525B",
+        "varId": "VariableID:137:1333"
+      },
+      "700": {
+        "cssVar": "--uedp-zinc-700",
+        "value": "#3F3F46",
+        "varId": "VariableID:137:1334"
+      },
+      "800": {
+        "cssVar": "--uedp-zinc-800",
+        "value": "#27272A",
+        "varId": "VariableID:137:1335"
+      },
+      "900": {
+        "cssVar": "--uedp-zinc-900",
+        "value": "#18181B",
+        "varId": "VariableID:137:1336"
+      },
+      "950": {
+        "cssVar": "--uedp-zinc-950",
+        "value": "#09090B",
+        "varId": "VariableID:137:1337"
+      }
+    },
+    "neutral": {
+      "50": {
+        "cssVar": "--uedp-neutral-50",
+        "value": "#FAFAFA",
+        "varId": "VariableID:137:1338"
+      },
+      "100": {
+        "cssVar": "--uedp-neutral-100",
+        "value": "#F5F5F5",
+        "varId": "VariableID:137:1339"
+      },
+      "200": {
+        "cssVar": "--uedp-neutral-200",
+        "value": "#E5E5E5",
+        "varId": "VariableID:137:1340"
+      },
+      "300": {
+        "cssVar": "--uedp-neutral-300",
+        "value": "#D4D4D4",
+        "varId": "VariableID:137:1341"
+      },
+      "400": {
+        "cssVar": "--uedp-neutral-400",
+        "value": "#A3A3A3",
+        "varId": "VariableID:137:1342"
+      },
+      "500": {
+        "cssVar": "--uedp-neutral-500",
+        "value": "#737373",
+        "varId": "VariableID:137:1343"
+      },
+      "600": {
+        "cssVar": "--uedp-neutral-600",
+        "value": "#525252",
+        "varId": "VariableID:137:1344"
+      },
+      "700": {
+        "cssVar": "--uedp-neutral-700",
+        "value": "#404040",
+        "varId": "VariableID:137:1345"
+      },
+      "800": {
+        "cssVar": "--uedp-neutral-800",
+        "value": "#262626",
+        "varId": "VariableID:137:1346"
+      },
+      "900": {
+        "cssVar": "--uedp-neutral-900",
+        "value": "#171717",
+        "varId": "VariableID:137:1347"
+      },
+      "950": {
+        "cssVar": "--uedp-neutral-950",
+        "value": "#0A0A0A",
+        "varId": "VariableID:137:1348"
+      }
+    },
+    "stone": {
+      "50": {
+        "cssVar": "--uedp-stone-50",
+        "value": "#FAFAF9",
+        "varId": "VariableID:137:1349"
+      },
+      "100": {
+        "cssVar": "--uedp-stone-100",
+        "value": "#F5F5F4",
+        "varId": "VariableID:137:1350"
+      },
+      "200": {
+        "cssVar": "--uedp-stone-200",
+        "value": "#E7E5E4",
+        "varId": "VariableID:137:1351"
+      },
+      "300": {
+        "cssVar": "--uedp-stone-300",
+        "value": "#D6D3D1",
+        "varId": "VariableID:137:1352"
+      },
+      "400": {
+        "cssVar": "--uedp-stone-400",
+        "value": "#A8A29E",
+        "varId": "VariableID:137:1353"
+      },
+      "500": {
+        "cssVar": "--uedp-stone-500",
+        "value": "#78716C",
+        "varId": "VariableID:137:1354"
+      },
+      "600": {
+        "cssVar": "--uedp-stone-600",
+        "value": "#57534E",
+        "varId": "VariableID:137:1355"
+      },
+      "700": {
+        "cssVar": "--uedp-stone-700",
+        "value": "#44403C",
+        "varId": "VariableID:137:1356"
+      },
+      "800": {
+        "cssVar": "--uedp-stone-800",
+        "value": "#292524",
+        "varId": "VariableID:137:1357"
+      },
+      "900": {
+        "cssVar": "--uedp-stone-900",
+        "value": "#1C1917",
+        "varId": "VariableID:137:1358"
+      },
+      "950": {
+        "cssVar": "--uedp-stone-950",
+        "value": "#0C0A09",
+        "varId": "VariableID:137:1359"
+      }
+    },
+    "red": {
+      "50": {
+        "cssVar": "--uedp-red-50",
+        "value": "#FEF2F2",
+        "varId": "VariableID:137:1360"
+      },
+      "100": {
+        "cssVar": "--uedp-red-100",
+        "value": "#FEE2E2",
+        "varId": "VariableID:137:1361"
+      },
+      "200": {
+        "cssVar": "--uedp-red-200",
+        "value": "#FECACA",
+        "varId": "VariableID:137:1362"
+      },
+      "300": {
+        "cssVar": "--uedp-red-300",
+        "value": "#FCA5A5",
+        "varId": "VariableID:137:1363"
+      },
+      "400": {
+        "cssVar": "--uedp-red-400",
+        "value": "#F87171",
+        "varId": "VariableID:137:1364"
+      },
+      "500": {
+        "cssVar": "--uedp-red-500",
+        "value": "#EF4444",
+        "varId": "VariableID:137:1365"
+      },
+      "600": {
+        "cssVar": "--uedp-red-600",
+        "value": "#DC2626",
+        "varId": "VariableID:137:1366"
+      },
+      "700": {
+        "cssVar": "--uedp-red-700",
+        "value": "#B91C1C",
+        "varId": "VariableID:137:1367"
+      },
+      "800": {
+        "cssVar": "--uedp-red-800",
+        "value": "#991B1B",
+        "varId": "VariableID:137:1368"
+      },
+      "900": {
+        "cssVar": "--uedp-red-900",
+        "value": "#7F1D1D",
+        "varId": "VariableID:137:1369"
+      },
+      "950": {
+        "cssVar": "--uedp-red-950",
+        "value": "#450A0A",
+        "varId": "VariableID:137:1370"
+      }
+    },
+    "orange": {
+      "50": {
+        "cssVar": "--uedp-orange-50",
+        "value": "#FFF7ED",
+        "varId": "VariableID:137:1371"
+      },
+      "100": {
+        "cssVar": "--uedp-orange-100",
+        "value": "#FFEDD5",
+        "varId": "VariableID:137:1372"
+      },
+      "200": {
+        "cssVar": "--uedp-orange-200",
+        "value": "#FED7AA",
+        "varId": "VariableID:137:1373"
+      },
+      "300": {
+        "cssVar": "--uedp-orange-300",
+        "value": "#FDBA74",
+        "varId": "VariableID:137:1374"
+      },
+      "400": {
+        "cssVar": "--uedp-orange-400",
+        "value": "#FB923C",
+        "varId": "VariableID:137:1375"
+      },
+      "500": {
+        "cssVar": "--uedp-orange-500",
+        "value": "#F97316",
+        "varId": "VariableID:137:1376"
+      },
+      "600": {
+        "cssVar": "--uedp-orange-600",
+        "value": "#EA580C",
+        "varId": "VariableID:137:1377"
+      },
+      "700": {
+        "cssVar": "--uedp-orange-700",
+        "value": "#C2410C",
+        "varId": "VariableID:137:1378"
+      },
+      "800": {
+        "cssVar": "--uedp-orange-800",
+        "value": "#9A3412",
+        "varId": "VariableID:137:1379"
+      },
+      "900": {
+        "cssVar": "--uedp-orange-900",
+        "value": "#7C2D12",
+        "varId": "VariableID:137:1380"
+      },
+      "950": {
+        "cssVar": "--uedp-orange-950",
+        "value": "#431407",
+        "varId": "VariableID:137:1381"
+      }
+    },
+    "amber": {
+      "50": {
+        "cssVar": "--uedp-amber-50",
+        "value": "#FFFBEB",
+        "varId": "VariableID:137:1382"
+      },
+      "100": {
+        "cssVar": "--uedp-amber-100",
+        "value": "#FEF3C7",
+        "varId": "VariableID:137:1383"
+      },
+      "200": {
+        "cssVar": "--uedp-amber-200",
+        "value": "#FDE68A",
+        "varId": "VariableID:137:1384"
+      },
+      "300": {
+        "cssVar": "--uedp-amber-300",
+        "value": "#FCD34D",
+        "varId": "VariableID:137:1385"
+      },
+      "400": {
+        "cssVar": "--uedp-amber-400",
+        "value": "#FBBF24",
+        "varId": "VariableID:137:1386"
+      },
+      "500": {
+        "cssVar": "--uedp-amber-500",
+        "value": "#F59E0B",
+        "varId": "VariableID:137:1387"
+      },
+      "600": {
+        "cssVar": "--uedp-amber-600",
+        "value": "#D97706",
+        "varId": "VariableID:137:1388"
+      },
+      "700": {
+        "cssVar": "--uedp-amber-700",
+        "value": "#B45309",
+        "varId": "VariableID:137:1389"
+      },
+      "800": {
+        "cssVar": "--uedp-amber-800",
+        "value": "#92400E",
+        "varId": "VariableID:137:1390"
+      },
+      "900": {
+        "cssVar": "--uedp-amber-900",
+        "value": "#78350F",
+        "varId": "VariableID:137:1391"
+      },
+      "950": {
+        "cssVar": "--uedp-amber-950",
+        "value": "#451A03",
+        "varId": "VariableID:137:1392"
+      }
+    },
+    "yellow": {
+      "50": {
+        "cssVar": "--uedp-yellow-50",
+        "value": "#FEFCE8",
+        "varId": "VariableID:137:1393"
+      },
+      "100": {
+        "cssVar": "--uedp-yellow-100",
+        "value": "#FEF9C3",
+        "varId": "VariableID:137:1394"
+      },
+      "200": {
+        "cssVar": "--uedp-yellow-200",
+        "value": "#FEF08A",
+        "varId": "VariableID:137:1395"
+      },
+      "300": {
+        "cssVar": "--uedp-yellow-300",
+        "value": "#FDE047",
+        "varId": "VariableID:137:1396"
+      },
+      "400": {
+        "cssVar": "--uedp-yellow-400",
+        "value": "#FACC15",
+        "varId": "VariableID:137:1397"
+      },
+      "500": {
+        "cssVar": "--uedp-yellow-500",
+        "value": "#EAB308",
+        "varId": "VariableID:137:1398"
+      },
+      "600": {
+        "cssVar": "--uedp-yellow-600",
+        "value": "#CA8A04",
+        "varId": "VariableID:137:1399"
+      },
+      "700": {
+        "cssVar": "--uedp-yellow-700",
+        "value": "#A16207",
+        "varId": "VariableID:137:1400"
+      },
+      "800": {
+        "cssVar": "--uedp-yellow-800",
+        "value": "#854D0E",
+        "varId": "VariableID:137:1401"
+      },
+      "900": {
+        "cssVar": "--uedp-yellow-900",
+        "value": "#713F12",
+        "varId": "VariableID:137:1402"
+      },
+      "950": {
+        "cssVar": "--uedp-yellow-950",
+        "value": "#422006",
+        "varId": "VariableID:137:1403"
+      }
+    },
+    "lime": {
+      "50": {
+        "cssVar": "--uedp-lime-50",
+        "value": "#F7FEE7",
+        "varId": "VariableID:137:1404"
+      },
+      "100": {
+        "cssVar": "--uedp-lime-100",
+        "value": "#ECFCCB",
+        "varId": "VariableID:137:1405"
+      },
+      "200": {
+        "cssVar": "--uedp-lime-200",
+        "value": "#D9F99D",
+        "varId": "VariableID:137:1406"
+      },
+      "300": {
+        "cssVar": "--uedp-lime-300",
+        "value": "#BEF264",
+        "varId": "VariableID:137:1407"
+      },
+      "400": {
+        "cssVar": "--uedp-lime-400",
+        "value": "#A3E635",
+        "varId": "VariableID:137:1408"
+      },
+      "500": {
+        "cssVar": "--uedp-lime-500",
+        "value": "#84CC16",
+        "varId": "VariableID:137:1409"
+      },
+      "600": {
+        "cssVar": "--uedp-lime-600",
+        "value": "#65A30D",
+        "varId": "VariableID:137:1410"
+      },
+      "700": {
+        "cssVar": "--uedp-lime-700",
+        "value": "#4D7C0F",
+        "varId": "VariableID:137:1411"
+      },
+      "800": {
+        "cssVar": "--uedp-lime-800",
+        "value": "#3F6212",
+        "varId": "VariableID:137:1412"
+      },
+      "900": {
+        "cssVar": "--uedp-lime-900",
+        "value": "#365314",
+        "varId": "VariableID:137:1413"
+      },
+      "950": {
+        "cssVar": "--uedp-lime-950",
+        "value": "#111111",
+        "varId": "VariableID:137:1414"
+      }
+    },
+    "green": {
+      "50": {
+        "cssVar": "--uedp-green-50",
+        "value": "#F0FDF4",
+        "varId": "VariableID:137:1415"
+      },
+      "100": {
+        "cssVar": "--uedp-green-100",
+        "value": "#DCFCE7",
+        "varId": "VariableID:137:1416"
+      },
+      "200": {
+        "cssVar": "--uedp-green-200",
+        "value": "#BBF7D0",
+        "varId": "VariableID:137:1417"
+      },
+      "300": {
+        "cssVar": "--uedp-green-300",
+        "value": "#86EFAC",
+        "varId": "VariableID:137:1418"
+      },
+      "400": {
+        "cssVar": "--uedp-green-400",
+        "value": "#4ADE80",
+        "varId": "VariableID:137:1419"
+      },
+      "500": {
+        "cssVar": "--uedp-green-500",
+        "value": "#22C55E",
+        "varId": "VariableID:137:1420"
+      },
+      "600": {
+        "cssVar": "--uedp-green-600",
+        "value": "#16A34A",
+        "varId": "VariableID:137:1421"
+      },
+      "700": {
+        "cssVar": "--uedp-green-700",
+        "value": "#15803D",
+        "varId": "VariableID:137:1422"
+      },
+      "800": {
+        "cssVar": "--uedp-green-800",
+        "value": "#166534",
+        "varId": "VariableID:137:1423"
+      },
+      "900": {
+        "cssVar": "--uedp-green-900",
+        "value": "#14532D",
+        "varId": "VariableID:137:1424"
+      },
+      "950": {
+        "cssVar": "--uedp-green-950",
+        "value": "#052E16",
+        "varId": "VariableID:137:1425"
+      }
+    },
+    "emerald": {
+      "50": {
+        "cssVar": "--uedp-emerald-50",
+        "value": "#ECFDF5",
+        "varId": "VariableID:137:1426"
+      },
+      "100": {
+        "cssVar": "--uedp-emerald-100",
+        "value": "#D1FAE5",
+        "varId": "VariableID:137:1427"
+      },
+      "200": {
+        "cssVar": "--uedp-emerald-200",
+        "value": "#A7F3D0",
+        "varId": "VariableID:137:1428"
+      },
+      "300": {
+        "cssVar": "--uedp-emerald-300",
+        "value": "#6EE7B7",
+        "varId": "VariableID:137:1429"
+      },
+      "400": {
+        "cssVar": "--uedp-emerald-400",
+        "value": "#34D399",
+        "varId": "VariableID:137:1430"
+      },
+      "500": {
+        "cssVar": "--uedp-emerald-500",
+        "value": "#10B981",
+        "varId": "VariableID:137:1431"
+      },
+      "600": {
+        "cssVar": "--uedp-emerald-600",
+        "value": "#059669",
+        "varId": "VariableID:137:1432"
+      },
+      "700": {
+        "cssVar": "--uedp-emerald-700",
+        "value": "#047857",
+        "varId": "VariableID:137:1433"
+      },
+      "800": {
+        "cssVar": "--uedp-emerald-800",
+        "value": "#065F46",
+        "varId": "VariableID:137:1434"
+      },
+      "900": {
+        "cssVar": "--uedp-emerald-900",
+        "value": "#064E3B",
+        "varId": "VariableID:137:1435"
+      },
+      "950": {
+        "cssVar": "--uedp-emerald-950",
+        "value": "#022C22",
+        "varId": "VariableID:137:1436"
+      }
+    },
+    "teal": {
+      "50": {
+        "cssVar": "--uedp-teal-50",
+        "value": "#F0FDFA",
+        "varId": "VariableID:137:1437"
+      },
+      "100": {
+        "cssVar": "--uedp-teal-100",
+        "value": "#CCFBF1",
+        "varId": "VariableID:137:1438"
+      },
+      "200": {
+        "cssVar": "--uedp-teal-200",
+        "value": "#99F6E4",
+        "varId": "VariableID:137:1439"
+      },
+      "300": {
+        "cssVar": "--uedp-teal-300",
+        "value": "#5EEAD4",
+        "varId": "VariableID:137:1440"
+      },
+      "400": {
+        "cssVar": "--uedp-teal-400",
+        "value": "#2DD4BF",
+        "varId": "VariableID:137:1441"
+      },
+      "500": {
+        "cssVar": "--uedp-teal-500",
+        "value": "#14B8A6",
+        "varId": "VariableID:137:1442"
+      },
+      "600": {
+        "cssVar": "--uedp-teal-600",
+        "value": "#0D9488",
+        "varId": "VariableID:137:1443"
+      },
+      "700": {
+        "cssVar": "--uedp-teal-700",
+        "value": "#0F766E",
+        "varId": "VariableID:137:1444"
+      },
+      "800": {
+        "cssVar": "--uedp-teal-800",
+        "value": "#115E59",
+        "varId": "VariableID:137:1445"
+      },
+      "900": {
+        "cssVar": "--uedp-teal-900",
+        "value": "#134E4A",
+        "varId": "VariableID:137:1446"
+      },
+      "950": {
+        "cssVar": "--uedp-teal-950",
+        "value": "#042F2E",
+        "varId": "VariableID:137:1447"
+      }
+    },
+    "cyan": {
+      "50": {
+        "cssVar": "--uedp-cyan-50",
+        "value": "#ECFEFF",
+        "varId": "VariableID:137:1448"
+      },
+      "100": {
+        "cssVar": "--uedp-cyan-100",
+        "value": "#CFFAFE",
+        "varId": "VariableID:137:1449"
+      },
+      "200": {
+        "cssVar": "--uedp-cyan-200",
+        "value": "#A5F3FC",
+        "varId": "VariableID:137:1450"
+      },
+      "300": {
+        "cssVar": "--uedp-cyan-300",
+        "value": "#67E8F9",
+        "varId": "VariableID:137:1451"
+      },
+      "400": {
+        "cssVar": "--uedp-cyan-400",
+        "value": "#22D3EE",
+        "varId": "VariableID:137:1452"
+      },
+      "500": {
+        "cssVar": "--uedp-cyan-500",
+        "value": "#06B6D4",
+        "varId": "VariableID:137:1453"
+      },
+      "600": {
+        "cssVar": "--uedp-cyan-600",
+        "value": "#0891B2",
+        "varId": "VariableID:137:1454"
+      },
+      "700": {
+        "cssVar": "--uedp-cyan-700",
+        "value": "#0E7490",
+        "varId": "VariableID:137:1455"
+      },
+      "800": {
+        "cssVar": "--uedp-cyan-800",
+        "value": "#155E75",
+        "varId": "VariableID:137:1456"
+      },
+      "900": {
+        "cssVar": "--uedp-cyan-900",
+        "value": "#164E63",
+        "varId": "VariableID:137:1457"
+      },
+      "950": {
+        "cssVar": "--uedp-cyan-950",
+        "value": "#083344",
+        "varId": "VariableID:137:1458"
+      }
+    },
+    "sky": {
+      "50": {
+        "cssVar": "--uedp-sky-50",
+        "value": "#F0F9FF",
+        "varId": "VariableID:137:1459"
+      },
+      "100": {
+        "cssVar": "--uedp-sky-100",
+        "value": "#E0F2FE",
+        "varId": "VariableID:137:1460"
+      },
+      "200": {
+        "cssVar": "--uedp-sky-200",
+        "value": "#BAE6FD",
+        "varId": "VariableID:137:1461"
+      },
+      "300": {
+        "cssVar": "--uedp-sky-300",
+        "value": "#7DD3FC",
+        "varId": "VariableID:137:1462"
+      },
+      "400": {
+        "cssVar": "--uedp-sky-400",
+        "value": "#38BDF8",
+        "varId": "VariableID:137:1463"
+      },
+      "500": {
+        "cssVar": "--uedp-sky-500",
+        "value": "#0EA5E9",
+        "varId": "VariableID:137:1464"
+      },
+      "600": {
+        "cssVar": "--uedp-sky-600",
+        "value": "#0284C7",
+        "varId": "VariableID:137:1465"
+      },
+      "700": {
+        "cssVar": "--uedp-sky-700",
+        "value": "#0369A1",
+        "varId": "VariableID:137:1466"
+      },
+      "800": {
+        "cssVar": "--uedp-sky-800",
+        "value": "#075985",
+        "varId": "VariableID:137:1467"
+      },
+      "900": {
+        "cssVar": "--uedp-sky-900",
+        "value": "#0C4A6E",
+        "varId": "VariableID:137:1468"
+      },
+      "950": {
+        "cssVar": "--uedp-sky-950",
+        "value": "#082F49",
+        "varId": "VariableID:137:1469"
+      }
+    },
+    "blue": {
+      "50": {
+        "cssVar": "--uedp-blue-50",
+        "value": "#EFF6FF",
+        "varId": "VariableID:137:1470"
+      },
+      "100": {
+        "cssVar": "--uedp-blue-100",
+        "value": "#DBEAFE",
+        "varId": "VariableID:137:1471"
+      },
+      "200": {
+        "cssVar": "--uedp-blue-200",
+        "value": "#BFDBFE",
+        "varId": "VariableID:137:1472"
+      },
+      "300": {
+        "cssVar": "--uedp-blue-300",
+        "value": "#93C5FD",
+        "varId": "VariableID:137:1473"
+      },
+      "400": {
+        "cssVar": "--uedp-blue-400",
+        "value": "#60A5FA",
+        "varId": "VariableID:137:1474"
+      },
+      "500": {
+        "cssVar": "--uedp-blue-500",
+        "value": "#3B82F6",
+        "varId": "VariableID:137:1475"
+      },
+      "600": {
+        "cssVar": "--uedp-blue-600",
+        "value": "#2563EB",
+        "varId": "VariableID:137:1476"
+      },
+      "700": {
+        "cssVar": "--uedp-blue-700",
+        "value": "#1D4ED8",
+        "varId": "VariableID:137:1477"
+      },
+      "800": {
+        "cssVar": "--uedp-blue-800",
+        "value": "#1E40AF",
+        "varId": "VariableID:137:1478"
+      },
+      "900": {
+        "cssVar": "--uedp-blue-900",
+        "value": "#1E3A8A",
+        "varId": "VariableID:137:1479"
+      },
+      "950": {
+        "cssVar": "--uedp-blue-950",
+        "value": "#172554",
+        "varId": "VariableID:137:1480"
+      }
+    },
+    "indigo": {
+      "50": {
+        "cssVar": "--uedp-indigo-50",
+        "value": "#EEF2FF",
+        "varId": "VariableID:137:1481"
+      },
+      "100": {
+        "cssVar": "--uedp-indigo-100",
+        "value": "#E0E7FF",
+        "varId": "VariableID:137:1482"
+      },
+      "200": {
+        "cssVar": "--uedp-indigo-200",
+        "value": "#C7D2FE",
+        "varId": "VariableID:137:1483"
+      },
+      "300": {
+        "cssVar": "--uedp-indigo-300",
+        "value": "#A5B4FC",
+        "varId": "VariableID:137:1484"
+      },
+      "400": {
+        "cssVar": "--uedp-indigo-400",
+        "value": "#818CF8",
+        "varId": "VariableID:137:1485"
+      },
+      "500": {
+        "cssVar": "--uedp-indigo-500",
+        "value": "#6366F1",
+        "varId": "VariableID:137:1486"
+      },
+      "600": {
+        "cssVar": "--uedp-indigo-600",
+        "value": "#4F46E5",
+        "varId": "VariableID:137:1487"
+      },
+      "700": {
+        "cssVar": "--uedp-indigo-700",
+        "value": "#4338CA",
+        "varId": "VariableID:137:1488"
+      },
+      "800": {
+        "cssVar": "--uedp-indigo-800",
+        "value": "#3730A3",
+        "varId": "VariableID:137:1489"
+      },
+      "900": {
+        "cssVar": "--uedp-indigo-900",
+        "value": "#312E81",
+        "varId": "VariableID:137:1490"
+      },
+      "950": {
+        "cssVar": "--uedp-indigo-950",
+        "value": "#1E1B4B",
+        "varId": "VariableID:137:1491"
+      }
+    },
+    "violet": {
+      "50": {
+        "cssVar": "--uedp-violet-50",
+        "value": "#F5F3FF",
+        "varId": "VariableID:137:1492"
+      },
+      "100": {
+        "cssVar": "--uedp-violet-100",
+        "value": "#EDE9FE",
+        "varId": "VariableID:137:1493"
+      },
+      "200": {
+        "cssVar": "--uedp-violet-200",
+        "value": "#DDD6FE",
+        "varId": "VariableID:137:1494"
+      },
+      "300": {
+        "cssVar": "--uedp-violet-300",
+        "value": "#C4B5FD",
+        "varId": "VariableID:137:1495"
+      },
+      "400": {
+        "cssVar": "--uedp-violet-400",
+        "value": "#A78BFA",
+        "varId": "VariableID:137:1496"
+      },
+      "500": {
+        "cssVar": "--uedp-violet-500",
+        "value": "#8B5CF6",
+        "varId": "VariableID:137:1497"
+      },
+      "600": {
+        "cssVar": "--uedp-violet-600",
+        "value": "#7C3AED",
+        "varId": "VariableID:137:1498"
+      },
+      "700": {
+        "cssVar": "--uedp-violet-700",
+        "value": "#6D28D9",
+        "varId": "VariableID:137:1499"
+      },
+      "800": {
+        "cssVar": "--uedp-violet-800",
+        "value": "#5B21B6",
+        "varId": "VariableID:137:1500"
+      },
+      "900": {
+        "cssVar": "--uedp-violet-900",
+        "value": "#4C1D95",
+        "varId": "VariableID:137:1501"
+      },
+      "950": {
+        "cssVar": "--uedp-violet-950",
+        "value": "#2E1065",
+        "varId": "VariableID:137:1502"
+      }
+    },
+    "purple": {
+      "50": {
+        "cssVar": "--uedp-purple-50",
+        "value": "#FAF5FF",
+        "varId": "VariableID:137:1503"
+      },
+      "100": {
+        "cssVar": "--uedp-purple-100",
+        "value": "#F3E8FF",
+        "varId": "VariableID:137:1504"
+      },
+      "200": {
+        "cssVar": "--uedp-purple-200",
+        "value": "#E9D5FF",
+        "varId": "VariableID:137:1505"
+      },
+      "300": {
+        "cssVar": "--uedp-purple-300",
+        "value": "#D8B4FE",
+        "varId": "VariableID:137:1506"
+      },
+      "400": {
+        "cssVar": "--uedp-purple-400",
+        "value": "#C084FC",
+        "varId": "VariableID:137:1507"
+      },
+      "500": {
+        "cssVar": "--uedp-purple-500",
+        "value": "#A855F7",
+        "varId": "VariableID:137:1508"
+      },
+      "600": {
+        "cssVar": "--uedp-purple-600",
+        "value": "#9333EA",
+        "varId": "VariableID:137:1509"
+      },
+      "700": {
+        "cssVar": "--uedp-purple-700",
+        "value": "#7E22CE",
+        "varId": "VariableID:137:1510"
+      },
+      "800": {
+        "cssVar": "--uedp-purple-800",
+        "value": "#6B21A8",
+        "varId": "VariableID:137:1511"
+      },
+      "900": {
+        "cssVar": "--uedp-purple-900",
+        "value": "#581C87",
+        "varId": "VariableID:137:1512"
+      },
+      "950": {
+        "cssVar": "--uedp-purple-950",
+        "value": "#3B0764",
+        "varId": "VariableID:137:1513"
+      }
+    },
+    "fuchsia": {
+      "50": {
+        "cssVar": "--uedp-fuchsia-50",
+        "value": "#FDF4FF",
+        "varId": "VariableID:137:1514"
+      },
+      "100": {
+        "cssVar": "--uedp-fuchsia-100",
+        "value": "#FAE8FF",
+        "varId": "VariableID:137:1515"
+      },
+      "200": {
+        "cssVar": "--uedp-fuchsia-200",
+        "value": "#F5D0FE",
+        "varId": "VariableID:137:1516"
+      },
+      "300": {
+        "cssVar": "--uedp-fuchsia-300",
+        "value": "#F0ABFC",
+        "varId": "VariableID:137:1517"
+      },
+      "400": {
+        "cssVar": "--uedp-fuchsia-400",
+        "value": "#E879F9",
+        "varId": "VariableID:137:1518"
+      },
+      "500": {
+        "cssVar": "--uedp-fuchsia-500",
+        "value": "#D946EF",
+        "varId": "VariableID:137:1519"
+      },
+      "600": {
+        "cssVar": "--uedp-fuchsia-600",
+        "value": "#C026D3",
+        "varId": "VariableID:137:1520"
+      },
+      "700": {
+        "cssVar": "--uedp-fuchsia-700",
+        "value": "#A21CAF",
+        "varId": "VariableID:137:1521"
+      },
+      "800": {
+        "cssVar": "--uedp-fuchsia-800",
+        "value": "#86198F",
+        "varId": "VariableID:137:1522"
+      },
+      "900": {
+        "cssVar": "--uedp-fuchsia-900",
+        "value": "#701A75",
+        "varId": "VariableID:137:1523"
+      },
+      "950": {
+        "cssVar": "--uedp-fuchsia-950",
+        "value": "#4A044E",
+        "varId": "VariableID:137:1524"
+      }
+    },
+    "pink": {
+      "50": {
+        "cssVar": "--uedp-pink-50",
+        "value": "#FDF2F8",
+        "varId": "VariableID:137:1525"
+      },
+      "100": {
+        "cssVar": "--uedp-pink-100",
+        "value": "#FCE7F3",
+        "varId": "VariableID:137:1526"
+      },
+      "200": {
+        "cssVar": "--uedp-pink-200",
+        "value": "#FBCFE8",
+        "varId": "VariableID:137:1527"
+      },
+      "300": {
+        "cssVar": "--uedp-pink-300",
+        "value": "#F9A8D4",
+        "varId": "VariableID:137:1528"
+      },
+      "400": {
+        "cssVar": "--uedp-pink-400",
+        "value": "#F472B6",
+        "varId": "VariableID:137:1529"
+      },
+      "500": {
+        "cssVar": "--uedp-pink-500",
+        "value": "#EC4899",
+        "varId": "VariableID:137:1530"
+      },
+      "600": {
+        "cssVar": "--uedp-pink-600",
+        "value": "#DB2777",
+        "varId": "VariableID:137:1531"
+      },
+      "700": {
+        "cssVar": "--uedp-pink-700",
+        "value": "#BE185D",
+        "varId": "VariableID:137:1532"
+      },
+      "800": {
+        "cssVar": "--uedp-pink-800",
+        "value": "#9D174D",
+        "varId": "VariableID:137:1533"
+      },
+      "900": {
+        "cssVar": "--uedp-pink-900",
+        "value": "#831843",
+        "varId": "VariableID:137:1534"
+      },
+      "950": {
+        "cssVar": "--uedp-pink-950",
+        "value": "#500724",
+        "varId": "VariableID:137:1535"
+      }
+    },
+    "rose": {
+      "50": {
+        "cssVar": "--uedp-rose-50",
+        "value": "#FFF1F2",
+        "varId": "VariableID:137:1536"
+      },
+      "100": {
+        "cssVar": "--uedp-rose-100",
+        "value": "#FFE4E6",
+        "varId": "VariableID:137:1537"
+      },
+      "200": {
+        "cssVar": "--uedp-rose-200",
+        "value": "#FECDD3",
+        "varId": "VariableID:137:1538"
+      },
+      "300": {
+        "cssVar": "--uedp-rose-300",
+        "value": "#FDA4AF",
+        "varId": "VariableID:137:1539"
+      },
+      "400": {
+        "cssVar": "--uedp-rose-400",
+        "value": "#FB7185",
+        "varId": "VariableID:137:1540"
+      },
+      "500": {
+        "cssVar": "--uedp-rose-500",
+        "value": "#F43F5E",
+        "varId": "VariableID:137:1541"
+      },
+      "600": {
+        "cssVar": "--uedp-rose-600",
+        "value": "#E11D48",
+        "varId": "VariableID:137:1542"
+      },
+      "700": {
+        "cssVar": "--uedp-rose-700",
+        "value": "#BE123C",
+        "varId": "VariableID:137:1543"
+      },
+      "800": {
+        "cssVar": "--uedp-rose-800",
+        "value": "#9F1239",
+        "varId": "VariableID:137:1544"
+      },
+      "900": {
+        "cssVar": "--uedp-rose-900",
+        "value": "#881337",
+        "varId": "VariableID:137:1545"
+      },
+      "950": {
+        "cssVar": "--uedp-rose-950",
+        "value": "#4C0519",
+        "varId": "VariableID:137:1546"
+      }
+    }
+  },
+  "foundational": {
+    "borderRadius": {
+      "rounded-none": {
+        "cssVar": "--uedp-rounded-none",
+        "value": "0px",
+        "varId": "VariableID:137:1548"
+      },
+      "rounded-sm": {
+        "cssVar": "--uedp-rounded-sm",
+        "value": "2px",
+        "varId": "VariableID:137:1549"
+      },
+      "rounded": {
+        "cssVar": "--uedp-rounded",
+        "value": "4px",
+        "varId": "VariableID:137:1550"
+      },
+      "rounded-md": {
+        "cssVar": "--uedp-rounded-md",
+        "value": "6px",
+        "varId": "VariableID:137:1551"
+      },
+      "rounded-lg": {
+        "cssVar": "--uedp-rounded-lg",
+        "value": "8px",
+        "varId": "VariableID:137:1552"
+      },
+      "rounded-xl": {
+        "cssVar": "--uedp-rounded-xl",
+        "value": "12px",
+        "varId": "VariableID:137:1553"
+      },
+      "rounded-2xl": {
+        "cssVar": "--uedp-rounded-2xl",
+        "value": "16px",
+        "varId": "VariableID:137:1554"
+      },
+      "rounded-3xl": {
+        "cssVar": "--uedp-rounded-3xl",
+        "value": "24px",
+        "varId": "VariableID:137:1555"
+      },
+      "rounded-full": {
+        "cssVar": "--uedp-rounded-full",
+        "value": "9999px",
+        "varId": "VariableID:137:1556"
+      }
+    },
+    "gap": {
+      "gap-0": {
+        "cssVar": "--uedp-gap-0",
+        "value": "0px",
+        "varId": "VariableID:137:1557"
+      },
+      "gap-px": {
+        "cssVar": "--uedp-gap-px",
+        "value": "1px",
+        "varId": "VariableID:137:1558"
+      },
+      "gap-0,5": {
+        "cssVar": "--uedp-gap-0-5",
+        "value": "2px",
+        "varId": "VariableID:137:1559"
+      },
+      "gap-1": {
+        "cssVar": "--uedp-gap-1",
+        "value": "4px",
+        "varId": "VariableID:137:1560"
+      },
+      "gap-1,5": {
+        "cssVar": "--uedp-gap-1-5",
+        "value": "6px",
+        "varId": "VariableID:158:1789"
+      },
+      "gap-2": {
+        "cssVar": "--uedp-gap-2",
+        "value": "8px",
+        "varId": "VariableID:137:1561"
+      },
+      "gap-3": {
+        "cssVar": "--uedp-gap-3",
+        "value": "12px",
+        "varId": "VariableID:137:1562"
+      },
+      "gap-4": {
+        "cssVar": "--uedp-gap-4",
+        "value": "16px",
+        "varId": "VariableID:137:1563"
+      },
+      "gap-5": {
+        "cssVar": "--uedp-gap-5",
+        "value": "20px",
+        "varId": "VariableID:137:1564"
+      },
+      "gap-6": {
+        "cssVar": "--uedp-gap-6",
+        "value": "24px",
+        "varId": "VariableID:137:1565"
+      },
+      "gap-7": {
+        "cssVar": "--uedp-gap-7",
+        "value": "28px",
+        "varId": "VariableID:137:1566"
+      },
+      "gap-8": {
+        "cssVar": "--uedp-gap-8",
+        "value": "32px",
+        "varId": "VariableID:137:1567"
+      },
+      "gap-9": {
+        "cssVar": "--uedp-gap-9",
+        "value": "36px",
+        "varId": "VariableID:137:1568"
+      },
+      "gap-10": {
+        "cssVar": "--uedp-gap-10",
+        "value": "40px",
+        "varId": "VariableID:137:1569"
+      },
+      "gap-11": {
+        "cssVar": "--uedp-gap-11",
+        "value": "44px",
+        "varId": "VariableID:137:1570"
+      },
+      "gap-12": {
+        "cssVar": "--uedp-gap-12",
+        "value": "48px",
+        "varId": "VariableID:137:1571"
+      },
+      "gap-14": {
+        "cssVar": "--uedp-gap-14",
+        "value": "56px",
+        "varId": "VariableID:314:34"
+      },
+      "gap-16": {
+        "cssVar": "--uedp-gap-16",
+        "value": "64px",
+        "varId": "VariableID:314:35"
+      },
+      "gap-18": {
+        "cssVar": "--uedp-gap-18",
+        "value": "72px",
+        "varId": "VariableID:394:5325"
+      },
+      "gap-20": {
+        "cssVar": "--uedp-gap-20",
+        "value": "80px",
+        "varId": "VariableID:394:5324"
+      },
+      "gap-24": {
+        "cssVar": "--uedp-gap-24",
+        "value": "96px",
+        "varId": "VariableID:394:5326"
+      },
+      "gap-28": {
+        "cssVar": "--uedp-gap-28",
+        "value": "112px",
+        "varId": "VariableID:394:5327"
+      },
+      "gap-32": {
+        "cssVar": "--uedp-gap-32",
+        "value": "128px",
+        "varId": "VariableID:394:5328"
+      },
+      "gap-64": {
+        "cssVar": "--uedp-gap-64",
+        "value": "256px",
+        "varId": "VariableID:394:5329"
+      }
+    },
+    "padding": {
+      "p-0": {
+        "cssVar": "--uedp-padding-0",
+        "cssVarAlias": "--uedp-p-0",
+        "value": "0px",
+        "varId": "VariableID:459:1247"
+      },
+      "p-0,5": {
+        "cssVar": "--uedp-padding-0-5",
+        "cssVarAlias": "--uedp-p-0-5",
+        "value": "2px",
+        "varId": "VariableID:459:1248"
+      },
+      "p-1": {
+        "cssVar": "--uedp-padding-1",
+        "cssVarAlias": "--uedp-p-1",
+        "value": "4px",
+        "varId": "VariableID:459:1249"
+      },
+      "p-1,5": {
+        "cssVar": "--uedp-padding-1-5",
+        "cssVarAlias": "--uedp-p-1-5",
+        "value": "6px",
+        "varId": "VariableID:459:1250"
+      },
+      "p-2": {
+        "cssVar": "--uedp-padding-2",
+        "cssVarAlias": "--uedp-p-2",
+        "value": "8px",
+        "varId": "VariableID:459:1251"
+      },
+      "p-2,5": {
+        "cssVar": "--uedp-padding-2-5",
+        "cssVarAlias": "--uedp-p-2-5",
+        "value": "10px",
+        "varId": "VariableID:459:1252"
+      },
+      "p-3": {
+        "cssVar": "--uedp-padding-3",
+        "cssVarAlias": "--uedp-p-3",
+        "value": "12px",
+        "varId": "VariableID:459:1253"
+      },
+      "p-3,5": {
+        "cssVar": "--uedp-padding-3-5",
+        "cssVarAlias": "--uedp-p-3-5",
+        "value": "14px",
+        "varId": "VariableID:459:1254"
+      },
+      "p-4": {
+        "cssVar": "--uedp-padding-4",
+        "cssVarAlias": "--uedp-p-4",
+        "value": "16px",
+        "varId": "VariableID:459:1255"
+      },
+      "p-5": {
+        "cssVar": "--uedp-padding-5",
+        "cssVarAlias": "--uedp-p-5",
+        "value": "20px",
+        "varId": "VariableID:459:1256"
+      },
+      "p-6": {
+        "cssVar": "--uedp-padding-6",
+        "cssVarAlias": "--uedp-p-6",
+        "value": "24px",
+        "varId": "VariableID:459:1257"
+      },
+      "p-7": {
+        "cssVar": "--uedp-padding-7",
+        "cssVarAlias": "--uedp-p-7",
+        "value": "28px",
+        "varId": "VariableID:459:1258"
+      },
+      "p-8": {
+        "cssVar": "--uedp-padding-8",
+        "cssVarAlias": "--uedp-p-8",
+        "value": "32px",
+        "varId": "VariableID:459:1259"
+      },
+      "p-9": {
+        "cssVar": "--uedp-padding-9",
+        "cssVarAlias": "--uedp-p-9",
+        "value": "36px",
+        "varId": "VariableID:459:1260"
+      },
+      "p-10": {
+        "cssVar": "--uedp-padding-10",
+        "cssVarAlias": "--uedp-p-10",
+        "value": "40px",
+        "varId": "VariableID:459:1261"
+      },
+      "p-11": {
+        "cssVar": "--uedp-padding-11",
+        "cssVarAlias": "--uedp-p-11",
+        "value": "44px",
+        "varId": "VariableID:459:1262"
+      },
+      "p-12": {
+        "cssVar": "--uedp-padding-12",
+        "cssVarAlias": "--uedp-p-12",
+        "value": "48px",
+        "varId": "VariableID:459:1263"
+      }
+    },
+    "opacity": {
+      "opacity-0": {
+        "cssVar": "--uedp-opacity-0",
+        "value": "0",
+        "varId": "VariableID:394:5330"
+      },
+      "opacity-5": {
+        "cssVar": "--uedp-opacity-5",
+        "value": "0.05",
+        "varId": "VariableID:394:5331"
+      },
+      "opacity-10": {
+        "cssVar": "--uedp-opacity-10",
+        "value": "0.1",
+        "varId": "VariableID:394:5332"
+      },
+      "opacity-20": {
+        "cssVar": "--uedp-opacity-20",
+        "value": "0.2",
+        "varId": "VariableID:394:5333"
+      },
+      "opacity-25": {
+        "cssVar": "--uedp-opacity-25",
+        "value": "0.25",
+        "varId": "VariableID:394:5334"
+      },
+      "opacity-30": {
+        "cssVar": "--uedp-opacity-30",
+        "value": "0.3",
+        "varId": "VariableID:394:5335"
+      },
+      "opacity-40": {
+        "cssVar": "--uedp-opacity-40",
+        "value": "0.4",
+        "varId": "VariableID:394:5336"
+      },
+      "opacity-50": {
+        "cssVar": "--uedp-opacity-50",
+        "value": "0.5",
+        "varId": "VariableID:394:5337"
+      },
+      "opacity-60": {
+        "cssVar": "--uedp-opacity-60",
+        "value": "0.6",
+        "varId": "VariableID:394:5338"
+      },
+      "opacity-70": {
+        "cssVar": "--uedp-opacity-70",
+        "value": "0.7",
+        "varId": "VariableID:394:5339"
+      },
+      "opacity-80": {
+        "cssVar": "--uedp-opacity-80",
+        "value": "0.8",
+        "varId": "VariableID:394:5340"
+      },
+      "opacity-90": {
+        "cssVar": "--uedp-opacity-90",
+        "value": "0.9",
+        "varId": "VariableID:394:5341"
+      },
+      "opacity-95": {
+        "cssVar": "--uedp-opacity-95",
+        "value": "0.95",
+        "varId": "VariableID:394:5342"
+      },
+      "opacity-100": {
+        "cssVar": "--uedp-opacity-100",
+        "value": "1",
+        "varId": "VariableID:394:5343"
+      }
+    },
+    "maxWidth": {
+      "max-w-xs": {
+        "cssVar": "--uedp-max-w-xs",
+        "value": "320px",
+        "varId": "VariableID:528:3950"
+      },
+      "max-w-sm": {
+        "cssVar": "--uedp-max-w-sm",
+        "value": "384px",
+        "varId": "VariableID:528:3949"
+      },
+      "max-w-md": {
+        "cssVar": "--uedp-max-w-md",
+        "value": "448px",
+        "varId": "VariableID:528:3951"
+      },
+      "max-w-lg": {
+        "cssVar": "--uedp-max-w-lg",
+        "value": "512px",
+        "varId": "VariableID:528:3952"
+      },
+      "max-w-xl": {
+        "cssVar": "--uedp-max-w-xl",
+        "value": "576px",
+        "varId": "VariableID:535:5210"
+      },
+      "max-w-2xl": {
+        "cssVar": "--uedp-max-w-2xl",
+        "value": "672px",
+        "varId": "VariableID:535:5211"
+      },
+      "max-w-3xl": {
+        "cssVar": "--uedp-max-w-3xl",
+        "value": "768px",
+        "varId": "VariableID:535:5212"
+      },
+      "max-w-4xl": {
+        "cssVar": "--uedp-max-w-4xl",
+        "value": "896px",
+        "varId": "VariableID:535:5213"
+      },
+      "max-w-5xl": {
+        "cssVar": "--uedp-max-w-5xl",
+        "value": "1024px",
+        "varId": "VariableID:535:5214"
+      },
+      "max-w-6xl": {
+        "cssVar": "--uedp-max-w-6xl",
+        "value": "1152px",
+        "varId": "VariableID:535:5215"
+      },
+      "max-w-7xl": {
+        "cssVar": "--uedp-max-w-7xl",
+        "value": "1280px",
+        "varId": "VariableID:535:5216"
+      },
+      "max-w-screen-sm": {
+        "cssVar": "--uedp-max-w-screen-sm",
+        "value": "640px",
+        "varId": "VariableID:535:5217"
+      },
+      "max-w-screen-md": {
+        "cssVar": "--uedp-max-w-screen-md",
+        "value": "768px",
+        "varId": "VariableID:535:5218"
+      },
+      "max-w-screen-lg": {
+        "cssVar": "--uedp-max-w-screen-lg",
+        "value": "1024px",
+        "varId": "VariableID:535:5219"
+      },
+      "max-w-screen-xl": {
+        "cssVar": "--uedp-max-w-screen-xl",
+        "value": "1280px",
+        "varId": "VariableID:535:5220"
+      },
+      "max-w-screen-2xl": {
+        "cssVar": "--uedp-max-w-screen-2xl",
+        "value": "1536px",
+        "varId": "VariableID:535:5221"
+      }
+    }
+  },
+  "variableIdMap": {
+    "VariableID:137:1303": {
+      "cssVar": "--uedp-black",
+      "value": "#000000",
+      "type": "color",
+      "family": "base",
+      "shade": "black"
+    },
+    "VariableID:137:1304": {
+      "cssVar": "--uedp-white",
+      "value": "#FFFFFF",
+      "type": "color",
+      "family": "base",
+      "shade": "white"
+    },
+    "VariableID:137:1305": {
+      "cssVar": "--uedp-slate-50",
+      "value": "#F8FAFC",
+      "type": "color",
+      "family": "slate",
+      "shade": "50"
+    },
+    "VariableID:137:1306": {
+      "cssVar": "--uedp-slate-100",
+      "value": "#F1F5F9",
+      "type": "color",
+      "family": "slate",
+      "shade": "100"
+    },
+    "VariableID:137:1307": {
+      "cssVar": "--uedp-slate-200",
+      "value": "#E2E8F0",
+      "type": "color",
+      "family": "slate",
+      "shade": "200"
+    },
+    "VariableID:137:1308": {
+      "cssVar": "--uedp-slate-300",
+      "value": "#CBD5E1",
+      "type": "color",
+      "family": "slate",
+      "shade": "300"
+    },
+    "VariableID:137:1309": {
+      "cssVar": "--uedp-slate-400",
+      "value": "#94A3B8",
+      "type": "color",
+      "family": "slate",
+      "shade": "400"
+    },
+    "VariableID:137:1310": {
+      "cssVar": "--uedp-slate-500",
+      "value": "#64748B",
+      "type": "color",
+      "family": "slate",
+      "shade": "500"
+    },
+    "VariableID:137:1311": {
+      "cssVar": "--uedp-slate-600",
+      "value": "#475569",
+      "type": "color",
+      "family": "slate",
+      "shade": "600"
+    },
+    "VariableID:137:1312": {
+      "cssVar": "--uedp-slate-700",
+      "value": "#334155",
+      "type": "color",
+      "family": "slate",
+      "shade": "700"
+    },
+    "VariableID:137:1313": {
+      "cssVar": "--uedp-slate-800",
+      "value": "#1E293B",
+      "type": "color",
+      "family": "slate",
+      "shade": "800"
+    },
+    "VariableID:137:1314": {
+      "cssVar": "--uedp-slate-900",
+      "value": "#0F172A",
+      "type": "color",
+      "family": "slate",
+      "shade": "900"
+    },
+    "VariableID:137:1315": {
+      "cssVar": "--uedp-slate-950",
+      "value": "#020617",
+      "type": "color",
+      "family": "slate",
+      "shade": "950"
+    },
+    "VariableID:137:1316": {
+      "cssVar": "--uedp-gray-50",
+      "value": "#F9FAFB",
+      "type": "color",
+      "family": "gray",
+      "shade": "50"
+    },
+    "VariableID:137:1317": {
+      "cssVar": "--uedp-gray-100",
+      "value": "#F3F4F6",
+      "type": "color",
+      "family": "gray",
+      "shade": "100"
+    },
+    "VariableID:137:1318": {
+      "cssVar": "--uedp-gray-200",
+      "value": "#E5E7EB",
+      "type": "color",
+      "family": "gray",
+      "shade": "200"
+    },
+    "VariableID:137:1319": {
+      "cssVar": "--uedp-gray-300",
+      "value": "#D1D5DB",
+      "type": "color",
+      "family": "gray",
+      "shade": "300"
+    },
+    "VariableID:137:1320": {
+      "cssVar": "--uedp-gray-400",
+      "value": "#9CA3AF",
+      "type": "color",
+      "family": "gray",
+      "shade": "400"
+    },
+    "VariableID:137:1321": {
+      "cssVar": "--uedp-gray-500",
+      "value": "#6B7280",
+      "type": "color",
+      "family": "gray",
+      "shade": "500"
+    },
+    "VariableID:137:1322": {
+      "cssVar": "--uedp-gray-600",
+      "value": "#4B5563",
+      "type": "color",
+      "family": "gray",
+      "shade": "600"
+    },
+    "VariableID:137:1323": {
+      "cssVar": "--uedp-gray-700",
+      "value": "#374151",
+      "type": "color",
+      "family": "gray",
+      "shade": "700"
+    },
+    "VariableID:137:1324": {
+      "cssVar": "--uedp-gray-800",
+      "value": "#1F2937",
+      "type": "color",
+      "family": "gray",
+      "shade": "800"
+    },
+    "VariableID:137:1325": {
+      "cssVar": "--uedp-gray-900",
+      "value": "#111827",
+      "type": "color",
+      "family": "gray",
+      "shade": "900"
+    },
+    "VariableID:137:1326": {
+      "cssVar": "--uedp-gray-950",
+      "value": "#030712",
+      "type": "color",
+      "family": "gray",
+      "shade": "950"
+    },
+    "VariableID:137:1327": {
+      "cssVar": "--uedp-zinc-50",
+      "value": "#FAFAFA",
+      "type": "color",
+      "family": "zinc",
+      "shade": "50"
+    },
+    "VariableID:137:1328": {
+      "cssVar": "--uedp-zinc-100",
+      "value": "#F4F4F5",
+      "type": "color",
+      "family": "zinc",
+      "shade": "100"
+    },
+    "VariableID:137:1329": {
+      "cssVar": "--uedp-zinc-200",
+      "value": "#E4E4E7",
+      "type": "color",
+      "family": "zinc",
+      "shade": "200"
+    },
+    "VariableID:137:1330": {
+      "cssVar": "--uedp-zinc-300",
+      "value": "#D4D4D8",
+      "type": "color",
+      "family": "zinc",
+      "shade": "300"
+    },
+    "VariableID:137:1331": {
+      "cssVar": "--uedp-zinc-400",
+      "value": "#A1A1AA",
+      "type": "color",
+      "family": "zinc",
+      "shade": "400"
+    },
+    "VariableID:137:1332": {
+      "cssVar": "--uedp-zinc-500",
+      "value": "#71717A",
+      "type": "color",
+      "family": "zinc",
+      "shade": "500"
+    },
+    "VariableID:137:1333": {
+      "cssVar": "--uedp-zinc-600",
+      "value": "#52525B",
+      "type": "color",
+      "family": "zinc",
+      "shade": "600"
+    },
+    "VariableID:137:1334": {
+      "cssVar": "--uedp-zinc-700",
+      "value": "#3F3F46",
+      "type": "color",
+      "family": "zinc",
+      "shade": "700"
+    },
+    "VariableID:137:1335": {
+      "cssVar": "--uedp-zinc-800",
+      "value": "#27272A",
+      "type": "color",
+      "family": "zinc",
+      "shade": "800"
+    },
+    "VariableID:137:1336": {
+      "cssVar": "--uedp-zinc-900",
+      "value": "#18181B",
+      "type": "color",
+      "family": "zinc",
+      "shade": "900"
+    },
+    "VariableID:137:1337": {
+      "cssVar": "--uedp-zinc-950",
+      "value": "#09090B",
+      "type": "color",
+      "family": "zinc",
+      "shade": "950"
+    },
+    "VariableID:137:1338": {
+      "cssVar": "--uedp-neutral-50",
+      "value": "#FAFAFA",
+      "type": "color",
+      "family": "neutral",
+      "shade": "50"
+    },
+    "VariableID:137:1339": {
+      "cssVar": "--uedp-neutral-100",
+      "value": "#F5F5F5",
+      "type": "color",
+      "family": "neutral",
+      "shade": "100"
+    },
+    "VariableID:137:1340": {
+      "cssVar": "--uedp-neutral-200",
+      "value": "#E5E5E5",
+      "type": "color",
+      "family": "neutral",
+      "shade": "200"
+    },
+    "VariableID:137:1341": {
+      "cssVar": "--uedp-neutral-300",
+      "value": "#D4D4D4",
+      "type": "color",
+      "family": "neutral",
+      "shade": "300"
+    },
+    "VariableID:137:1342": {
+      "cssVar": "--uedp-neutral-400",
+      "value": "#A3A3A3",
+      "type": "color",
+      "family": "neutral",
+      "shade": "400"
+    },
+    "VariableID:137:1343": {
+      "cssVar": "--uedp-neutral-500",
+      "value": "#737373",
+      "type": "color",
+      "family": "neutral",
+      "shade": "500"
+    },
+    "VariableID:137:1344": {
+      "cssVar": "--uedp-neutral-600",
+      "value": "#525252",
+      "type": "color",
+      "family": "neutral",
+      "shade": "600"
+    },
+    "VariableID:137:1345": {
+      "cssVar": "--uedp-neutral-700",
+      "value": "#404040",
+      "type": "color",
+      "family": "neutral",
+      "shade": "700"
+    },
+    "VariableID:137:1346": {
+      "cssVar": "--uedp-neutral-800",
+      "value": "#262626",
+      "type": "color",
+      "family": "neutral",
+      "shade": "800"
+    },
+    "VariableID:137:1347": {
+      "cssVar": "--uedp-neutral-900",
+      "value": "#171717",
+      "type": "color",
+      "family": "neutral",
+      "shade": "900"
+    },
+    "VariableID:137:1348": {
+      "cssVar": "--uedp-neutral-950",
+      "value": "#0A0A0A",
+      "type": "color",
+      "family": "neutral",
+      "shade": "950"
+    },
+    "VariableID:137:1349": {
+      "cssVar": "--uedp-stone-50",
+      "value": "#FAFAF9",
+      "type": "color",
+      "family": "stone",
+      "shade": "50"
+    },
+    "VariableID:137:1350": {
+      "cssVar": "--uedp-stone-100",
+      "value": "#F5F5F4",
+      "type": "color",
+      "family": "stone",
+      "shade": "100"
+    },
+    "VariableID:137:1351": {
+      "cssVar": "--uedp-stone-200",
+      "value": "#E7E5E4",
+      "type": "color",
+      "family": "stone",
+      "shade": "200"
+    },
+    "VariableID:137:1352": {
+      "cssVar": "--uedp-stone-300",
+      "value": "#D6D3D1",
+      "type": "color",
+      "family": "stone",
+      "shade": "300"
+    },
+    "VariableID:137:1353": {
+      "cssVar": "--uedp-stone-400",
+      "value": "#A8A29E",
+      "type": "color",
+      "family": "stone",
+      "shade": "400"
+    },
+    "VariableID:137:1354": {
+      "cssVar": "--uedp-stone-500",
+      "value": "#78716C",
+      "type": "color",
+      "family": "stone",
+      "shade": "500"
+    },
+    "VariableID:137:1355": {
+      "cssVar": "--uedp-stone-600",
+      "value": "#57534E",
+      "type": "color",
+      "family": "stone",
+      "shade": "600"
+    },
+    "VariableID:137:1356": {
+      "cssVar": "--uedp-stone-700",
+      "value": "#44403C",
+      "type": "color",
+      "family": "stone",
+      "shade": "700"
+    },
+    "VariableID:137:1357": {
+      "cssVar": "--uedp-stone-800",
+      "value": "#292524",
+      "type": "color",
+      "family": "stone",
+      "shade": "800"
+    },
+    "VariableID:137:1358": {
+      "cssVar": "--uedp-stone-900",
+      "value": "#1C1917",
+      "type": "color",
+      "family": "stone",
+      "shade": "900"
+    },
+    "VariableID:137:1359": {
+      "cssVar": "--uedp-stone-950",
+      "value": "#0C0A09",
+      "type": "color",
+      "family": "stone",
+      "shade": "950"
+    },
+    "VariableID:137:1360": {
+      "cssVar": "--uedp-red-50",
+      "value": "#FEF2F2",
+      "type": "color",
+      "family": "red",
+      "shade": "50"
+    },
+    "VariableID:137:1361": {
+      "cssVar": "--uedp-red-100",
+      "value": "#FEE2E2",
+      "type": "color",
+      "family": "red",
+      "shade": "100"
+    },
+    "VariableID:137:1362": {
+      "cssVar": "--uedp-red-200",
+      "value": "#FECACA",
+      "type": "color",
+      "family": "red",
+      "shade": "200"
+    },
+    "VariableID:137:1363": {
+      "cssVar": "--uedp-red-300",
+      "value": "#FCA5A5",
+      "type": "color",
+      "family": "red",
+      "shade": "300"
+    },
+    "VariableID:137:1364": {
+      "cssVar": "--uedp-red-400",
+      "value": "#F87171",
+      "type": "color",
+      "family": "red",
+      "shade": "400"
+    },
+    "VariableID:137:1365": {
+      "cssVar": "--uedp-red-500",
+      "value": "#EF4444",
+      "type": "color",
+      "family": "red",
+      "shade": "500"
+    },
+    "VariableID:137:1366": {
+      "cssVar": "--uedp-red-600",
+      "value": "#DC2626",
+      "type": "color",
+      "family": "red",
+      "shade": "600"
+    },
+    "VariableID:137:1367": {
+      "cssVar": "--uedp-red-700",
+      "value": "#B91C1C",
+      "type": "color",
+      "family": "red",
+      "shade": "700"
+    },
+    "VariableID:137:1368": {
+      "cssVar": "--uedp-red-800",
+      "value": "#991B1B",
+      "type": "color",
+      "family": "red",
+      "shade": "800"
+    },
+    "VariableID:137:1369": {
+      "cssVar": "--uedp-red-900",
+      "value": "#7F1D1D",
+      "type": "color",
+      "family": "red",
+      "shade": "900"
+    },
+    "VariableID:137:1370": {
+      "cssVar": "--uedp-red-950",
+      "value": "#450A0A",
+      "type": "color",
+      "family": "red",
+      "shade": "950"
+    },
+    "VariableID:137:1371": {
+      "cssVar": "--uedp-orange-50",
+      "value": "#FFF7ED",
+      "type": "color",
+      "family": "orange",
+      "shade": "50"
+    },
+    "VariableID:137:1372": {
+      "cssVar": "--uedp-orange-100",
+      "value": "#FFEDD5",
+      "type": "color",
+      "family": "orange",
+      "shade": "100"
+    },
+    "VariableID:137:1373": {
+      "cssVar": "--uedp-orange-200",
+      "value": "#FED7AA",
+      "type": "color",
+      "family": "orange",
+      "shade": "200"
+    },
+    "VariableID:137:1374": {
+      "cssVar": "--uedp-orange-300",
+      "value": "#FDBA74",
+      "type": "color",
+      "family": "orange",
+      "shade": "300"
+    },
+    "VariableID:137:1375": {
+      "cssVar": "--uedp-orange-400",
+      "value": "#FB923C",
+      "type": "color",
+      "family": "orange",
+      "shade": "400"
+    },
+    "VariableID:137:1376": {
+      "cssVar": "--uedp-orange-500",
+      "value": "#F97316",
+      "type": "color",
+      "family": "orange",
+      "shade": "500"
+    },
+    "VariableID:137:1377": {
+      "cssVar": "--uedp-orange-600",
+      "value": "#EA580C",
+      "type": "color",
+      "family": "orange",
+      "shade": "600"
+    },
+    "VariableID:137:1378": {
+      "cssVar": "--uedp-orange-700",
+      "value": "#C2410C",
+      "type": "color",
+      "family": "orange",
+      "shade": "700"
+    },
+    "VariableID:137:1379": {
+      "cssVar": "--uedp-orange-800",
+      "value": "#9A3412",
+      "type": "color",
+      "family": "orange",
+      "shade": "800"
+    },
+    "VariableID:137:1380": {
+      "cssVar": "--uedp-orange-900",
+      "value": "#7C2D12",
+      "type": "color",
+      "family": "orange",
+      "shade": "900"
+    },
+    "VariableID:137:1381": {
+      "cssVar": "--uedp-orange-950",
+      "value": "#431407",
+      "type": "color",
+      "family": "orange",
+      "shade": "950"
+    },
+    "VariableID:137:1382": {
+      "cssVar": "--uedp-amber-50",
+      "value": "#FFFBEB",
+      "type": "color",
+      "family": "amber",
+      "shade": "50"
+    },
+    "VariableID:137:1383": {
+      "cssVar": "--uedp-amber-100",
+      "value": "#FEF3C7",
+      "type": "color",
+      "family": "amber",
+      "shade": "100"
+    },
+    "VariableID:137:1384": {
+      "cssVar": "--uedp-amber-200",
+      "value": "#FDE68A",
+      "type": "color",
+      "family": "amber",
+      "shade": "200"
+    },
+    "VariableID:137:1385": {
+      "cssVar": "--uedp-amber-300",
+      "value": "#FCD34D",
+      "type": "color",
+      "family": "amber",
+      "shade": "300"
+    },
+    "VariableID:137:1386": {
+      "cssVar": "--uedp-amber-400",
+      "value": "#FBBF24",
+      "type": "color",
+      "family": "amber",
+      "shade": "400"
+    },
+    "VariableID:137:1387": {
+      "cssVar": "--uedp-amber-500",
+      "value": "#F59E0B",
+      "type": "color",
+      "family": "amber",
+      "shade": "500"
+    },
+    "VariableID:137:1388": {
+      "cssVar": "--uedp-amber-600",
+      "value": "#D97706",
+      "type": "color",
+      "family": "amber",
+      "shade": "600"
+    },
+    "VariableID:137:1389": {
+      "cssVar": "--uedp-amber-700",
+      "value": "#B45309",
+      "type": "color",
+      "family": "amber",
+      "shade": "700"
+    },
+    "VariableID:137:1390": {
+      "cssVar": "--uedp-amber-800",
+      "value": "#92400E",
+      "type": "color",
+      "family": "amber",
+      "shade": "800"
+    },
+    "VariableID:137:1391": {
+      "cssVar": "--uedp-amber-900",
+      "value": "#78350F",
+      "type": "color",
+      "family": "amber",
+      "shade": "900"
+    },
+    "VariableID:137:1392": {
+      "cssVar": "--uedp-amber-950",
+      "value": "#451A03",
+      "type": "color",
+      "family": "amber",
+      "shade": "950"
+    },
+    "VariableID:137:1393": {
+      "cssVar": "--uedp-yellow-50",
+      "value": "#FEFCE8",
+      "type": "color",
+      "family": "yellow",
+      "shade": "50"
+    },
+    "VariableID:137:1394": {
+      "cssVar": "--uedp-yellow-100",
+      "value": "#FEF9C3",
+      "type": "color",
+      "family": "yellow",
+      "shade": "100"
+    },
+    "VariableID:137:1395": {
+      "cssVar": "--uedp-yellow-200",
+      "value": "#FEF08A",
+      "type": "color",
+      "family": "yellow",
+      "shade": "200"
+    },
+    "VariableID:137:1396": {
+      "cssVar": "--uedp-yellow-300",
+      "value": "#FDE047",
+      "type": "color",
+      "family": "yellow",
+      "shade": "300"
+    },
+    "VariableID:137:1397": {
+      "cssVar": "--uedp-yellow-400",
+      "value": "#FACC15",
+      "type": "color",
+      "family": "yellow",
+      "shade": "400"
+    },
+    "VariableID:137:1398": {
+      "cssVar": "--uedp-yellow-500",
+      "value": "#EAB308",
+      "type": "color",
+      "family": "yellow",
+      "shade": "500"
+    },
+    "VariableID:137:1399": {
+      "cssVar": "--uedp-yellow-600",
+      "value": "#CA8A04",
+      "type": "color",
+      "family": "yellow",
+      "shade": "600"
+    },
+    "VariableID:137:1400": {
+      "cssVar": "--uedp-yellow-700",
+      "value": "#A16207",
+      "type": "color",
+      "family": "yellow",
+      "shade": "700"
+    },
+    "VariableID:137:1401": {
+      "cssVar": "--uedp-yellow-800",
+      "value": "#854D0E",
+      "type": "color",
+      "family": "yellow",
+      "shade": "800"
+    },
+    "VariableID:137:1402": {
+      "cssVar": "--uedp-yellow-900",
+      "value": "#713F12",
+      "type": "color",
+      "family": "yellow",
+      "shade": "900"
+    },
+    "VariableID:137:1403": {
+      "cssVar": "--uedp-yellow-950",
+      "value": "#422006",
+      "type": "color",
+      "family": "yellow",
+      "shade": "950"
+    },
+    "VariableID:137:1404": {
+      "cssVar": "--uedp-lime-50",
+      "value": "#F7FEE7",
+      "type": "color",
+      "family": "lime",
+      "shade": "50"
+    },
+    "VariableID:137:1405": {
+      "cssVar": "--uedp-lime-100",
+      "value": "#ECFCCB",
+      "type": "color",
+      "family": "lime",
+      "shade": "100"
+    },
+    "VariableID:137:1406": {
+      "cssVar": "--uedp-lime-200",
+      "value": "#D9F99D",
+      "type": "color",
+      "family": "lime",
+      "shade": "200"
+    },
+    "VariableID:137:1407": {
+      "cssVar": "--uedp-lime-300",
+      "value": "#BEF264",
+      "type": "color",
+      "family": "lime",
+      "shade": "300"
+    },
+    "VariableID:137:1408": {
+      "cssVar": "--uedp-lime-400",
+      "value": "#A3E635",
+      "type": "color",
+      "family": "lime",
+      "shade": "400"
+    },
+    "VariableID:137:1409": {
+      "cssVar": "--uedp-lime-500",
+      "value": "#84CC16",
+      "type": "color",
+      "family": "lime",
+      "shade": "500"
+    },
+    "VariableID:137:1410": {
+      "cssVar": "--uedp-lime-600",
+      "value": "#65A30D",
+      "type": "color",
+      "family": "lime",
+      "shade": "600"
+    },
+    "VariableID:137:1411": {
+      "cssVar": "--uedp-lime-700",
+      "value": "#4D7C0F",
+      "type": "color",
+      "family": "lime",
+      "shade": "700"
+    },
+    "VariableID:137:1412": {
+      "cssVar": "--uedp-lime-800",
+      "value": "#3F6212",
+      "type": "color",
+      "family": "lime",
+      "shade": "800"
+    },
+    "VariableID:137:1413": {
+      "cssVar": "--uedp-lime-900",
+      "value": "#365314",
+      "type": "color",
+      "family": "lime",
+      "shade": "900"
+    },
+    "VariableID:137:1414": {
+      "cssVar": "--uedp-lime-950",
+      "value": "#111111",
+      "type": "color",
+      "family": "lime",
+      "shade": "950"
+    },
+    "VariableID:137:1415": {
+      "cssVar": "--uedp-green-50",
+      "value": "#F0FDF4",
+      "type": "color",
+      "family": "green",
+      "shade": "50"
+    },
+    "VariableID:137:1416": {
+      "cssVar": "--uedp-green-100",
+      "value": "#DCFCE7",
+      "type": "color",
+      "family": "green",
+      "shade": "100"
+    },
+    "VariableID:137:1417": {
+      "cssVar": "--uedp-green-200",
+      "value": "#BBF7D0",
+      "type": "color",
+      "family": "green",
+      "shade": "200"
+    },
+    "VariableID:137:1418": {
+      "cssVar": "--uedp-green-300",
+      "value": "#86EFAC",
+      "type": "color",
+      "family": "green",
+      "shade": "300"
+    },
+    "VariableID:137:1419": {
+      "cssVar": "--uedp-green-400",
+      "value": "#4ADE80",
+      "type": "color",
+      "family": "green",
+      "shade": "400"
+    },
+    "VariableID:137:1420": {
+      "cssVar": "--uedp-green-500",
+      "value": "#22C55E",
+      "type": "color",
+      "family": "green",
+      "shade": "500"
+    },
+    "VariableID:137:1421": {
+      "cssVar": "--uedp-green-600",
+      "value": "#16A34A",
+      "type": "color",
+      "family": "green",
+      "shade": "600"
+    },
+    "VariableID:137:1422": {
+      "cssVar": "--uedp-green-700",
+      "value": "#15803D",
+      "type": "color",
+      "family": "green",
+      "shade": "700"
+    },
+    "VariableID:137:1423": {
+      "cssVar": "--uedp-green-800",
+      "value": "#166534",
+      "type": "color",
+      "family": "green",
+      "shade": "800"
+    },
+    "VariableID:137:1424": {
+      "cssVar": "--uedp-green-900",
+      "value": "#14532D",
+      "type": "color",
+      "family": "green",
+      "shade": "900"
+    },
+    "VariableID:137:1425": {
+      "cssVar": "--uedp-green-950",
+      "value": "#052E16",
+      "type": "color",
+      "family": "green",
+      "shade": "950"
+    },
+    "VariableID:137:1426": {
+      "cssVar": "--uedp-emerald-50",
+      "value": "#ECFDF5",
+      "type": "color",
+      "family": "emerald",
+      "shade": "50"
+    },
+    "VariableID:137:1427": {
+      "cssVar": "--uedp-emerald-100",
+      "value": "#D1FAE5",
+      "type": "color",
+      "family": "emerald",
+      "shade": "100"
+    },
+    "VariableID:137:1428": {
+      "cssVar": "--uedp-emerald-200",
+      "value": "#A7F3D0",
+      "type": "color",
+      "family": "emerald",
+      "shade": "200"
+    },
+    "VariableID:137:1429": {
+      "cssVar": "--uedp-emerald-300",
+      "value": "#6EE7B7",
+      "type": "color",
+      "family": "emerald",
+      "shade": "300"
+    },
+    "VariableID:137:1430": {
+      "cssVar": "--uedp-emerald-400",
+      "value": "#34D399",
+      "type": "color",
+      "family": "emerald",
+      "shade": "400"
+    },
+    "VariableID:137:1431": {
+      "cssVar": "--uedp-emerald-500",
+      "value": "#10B981",
+      "type": "color",
+      "family": "emerald",
+      "shade": "500"
+    },
+    "VariableID:137:1432": {
+      "cssVar": "--uedp-emerald-600",
+      "value": "#059669",
+      "type": "color",
+      "family": "emerald",
+      "shade": "600"
+    },
+    "VariableID:137:1433": {
+      "cssVar": "--uedp-emerald-700",
+      "value": "#047857",
+      "type": "color",
+      "family": "emerald",
+      "shade": "700"
+    },
+    "VariableID:137:1434": {
+      "cssVar": "--uedp-emerald-800",
+      "value": "#065F46",
+      "type": "color",
+      "family": "emerald",
+      "shade": "800"
+    },
+    "VariableID:137:1435": {
+      "cssVar": "--uedp-emerald-900",
+      "value": "#064E3B",
+      "type": "color",
+      "family": "emerald",
+      "shade": "900"
+    },
+    "VariableID:137:1436": {
+      "cssVar": "--uedp-emerald-950",
+      "value": "#022C22",
+      "type": "color",
+      "family": "emerald",
+      "shade": "950"
+    },
+    "VariableID:137:1437": {
+      "cssVar": "--uedp-teal-50",
+      "value": "#F0FDFA",
+      "type": "color",
+      "family": "teal",
+      "shade": "50"
+    },
+    "VariableID:137:1438": {
+      "cssVar": "--uedp-teal-100",
+      "value": "#CCFBF1",
+      "type": "color",
+      "family": "teal",
+      "shade": "100"
+    },
+    "VariableID:137:1439": {
+      "cssVar": "--uedp-teal-200",
+      "value": "#99F6E4",
+      "type": "color",
+      "family": "teal",
+      "shade": "200"
+    },
+    "VariableID:137:1440": {
+      "cssVar": "--uedp-teal-300",
+      "value": "#5EEAD4",
+      "type": "color",
+      "family": "teal",
+      "shade": "300"
+    },
+    "VariableID:137:1441": {
+      "cssVar": "--uedp-teal-400",
+      "value": "#2DD4BF",
+      "type": "color",
+      "family": "teal",
+      "shade": "400"
+    },
+    "VariableID:137:1442": {
+      "cssVar": "--uedp-teal-500",
+      "value": "#14B8A6",
+      "type": "color",
+      "family": "teal",
+      "shade": "500"
+    },
+    "VariableID:137:1443": {
+      "cssVar": "--uedp-teal-600",
+      "value": "#0D9488",
+      "type": "color",
+      "family": "teal",
+      "shade": "600"
+    },
+    "VariableID:137:1444": {
+      "cssVar": "--uedp-teal-700",
+      "value": "#0F766E",
+      "type": "color",
+      "family": "teal",
+      "shade": "700"
+    },
+    "VariableID:137:1445": {
+      "cssVar": "--uedp-teal-800",
+      "value": "#115E59",
+      "type": "color",
+      "family": "teal",
+      "shade": "800"
+    },
+    "VariableID:137:1446": {
+      "cssVar": "--uedp-teal-900",
+      "value": "#134E4A",
+      "type": "color",
+      "family": "teal",
+      "shade": "900"
+    },
+    "VariableID:137:1447": {
+      "cssVar": "--uedp-teal-950",
+      "value": "#042F2E",
+      "type": "color",
+      "family": "teal",
+      "shade": "950"
+    },
+    "VariableID:137:1448": {
+      "cssVar": "--uedp-cyan-50",
+      "value": "#ECFEFF",
+      "type": "color",
+      "family": "cyan",
+      "shade": "50"
+    },
+    "VariableID:137:1449": {
+      "cssVar": "--uedp-cyan-100",
+      "value": "#CFFAFE",
+      "type": "color",
+      "family": "cyan",
+      "shade": "100"
+    },
+    "VariableID:137:1450": {
+      "cssVar": "--uedp-cyan-200",
+      "value": "#A5F3FC",
+      "type": "color",
+      "family": "cyan",
+      "shade": "200"
+    },
+    "VariableID:137:1451": {
+      "cssVar": "--uedp-cyan-300",
+      "value": "#67E8F9",
+      "type": "color",
+      "family": "cyan",
+      "shade": "300"
+    },
+    "VariableID:137:1452": {
+      "cssVar": "--uedp-cyan-400",
+      "value": "#22D3EE",
+      "type": "color",
+      "family": "cyan",
+      "shade": "400"
+    },
+    "VariableID:137:1453": {
+      "cssVar": "--uedp-cyan-500",
+      "value": "#06B6D4",
+      "type": "color",
+      "family": "cyan",
+      "shade": "500"
+    },
+    "VariableID:137:1454": {
+      "cssVar": "--uedp-cyan-600",
+      "value": "#0891B2",
+      "type": "color",
+      "family": "cyan",
+      "shade": "600"
+    },
+    "VariableID:137:1455": {
+      "cssVar": "--uedp-cyan-700",
+      "value": "#0E7490",
+      "type": "color",
+      "family": "cyan",
+      "shade": "700"
+    },
+    "VariableID:137:1456": {
+      "cssVar": "--uedp-cyan-800",
+      "value": "#155E75",
+      "type": "color",
+      "family": "cyan",
+      "shade": "800"
+    },
+    "VariableID:137:1457": {
+      "cssVar": "--uedp-cyan-900",
+      "value": "#164E63",
+      "type": "color",
+      "family": "cyan",
+      "shade": "900"
+    },
+    "VariableID:137:1458": {
+      "cssVar": "--uedp-cyan-950",
+      "value": "#083344",
+      "type": "color",
+      "family": "cyan",
+      "shade": "950"
+    },
+    "VariableID:137:1459": {
+      "cssVar": "--uedp-sky-50",
+      "value": "#F0F9FF",
+      "type": "color",
+      "family": "sky",
+      "shade": "50"
+    },
+    "VariableID:137:1460": {
+      "cssVar": "--uedp-sky-100",
+      "value": "#E0F2FE",
+      "type": "color",
+      "family": "sky",
+      "shade": "100"
+    },
+    "VariableID:137:1461": {
+      "cssVar": "--uedp-sky-200",
+      "value": "#BAE6FD",
+      "type": "color",
+      "family": "sky",
+      "shade": "200"
+    },
+    "VariableID:137:1462": {
+      "cssVar": "--uedp-sky-300",
+      "value": "#7DD3FC",
+      "type": "color",
+      "family": "sky",
+      "shade": "300"
+    },
+    "VariableID:137:1463": {
+      "cssVar": "--uedp-sky-400",
+      "value": "#38BDF8",
+      "type": "color",
+      "family": "sky",
+      "shade": "400"
+    },
+    "VariableID:137:1464": {
+      "cssVar": "--uedp-sky-500",
+      "value": "#0EA5E9",
+      "type": "color",
+      "family": "sky",
+      "shade": "500"
+    },
+    "VariableID:137:1465": {
+      "cssVar": "--uedp-sky-600",
+      "value": "#0284C7",
+      "type": "color",
+      "family": "sky",
+      "shade": "600"
+    },
+    "VariableID:137:1466": {
+      "cssVar": "--uedp-sky-700",
+      "value": "#0369A1",
+      "type": "color",
+      "family": "sky",
+      "shade": "700"
+    },
+    "VariableID:137:1467": {
+      "cssVar": "--uedp-sky-800",
+      "value": "#075985",
+      "type": "color",
+      "family": "sky",
+      "shade": "800"
+    },
+    "VariableID:137:1468": {
+      "cssVar": "--uedp-sky-900",
+      "value": "#0C4A6E",
+      "type": "color",
+      "family": "sky",
+      "shade": "900"
+    },
+    "VariableID:137:1469": {
+      "cssVar": "--uedp-sky-950",
+      "value": "#082F49",
+      "type": "color",
+      "family": "sky",
+      "shade": "950"
+    },
+    "VariableID:137:1470": {
+      "cssVar": "--uedp-blue-50",
+      "value": "#EFF6FF",
+      "type": "color",
+      "family": "blue",
+      "shade": "50"
+    },
+    "VariableID:137:1471": {
+      "cssVar": "--uedp-blue-100",
+      "value": "#DBEAFE",
+      "type": "color",
+      "family": "blue",
+      "shade": "100"
+    },
+    "VariableID:137:1472": {
+      "cssVar": "--uedp-blue-200",
+      "value": "#BFDBFE",
+      "type": "color",
+      "family": "blue",
+      "shade": "200"
+    },
+    "VariableID:137:1473": {
+      "cssVar": "--uedp-blue-300",
+      "value": "#93C5FD",
+      "type": "color",
+      "family": "blue",
+      "shade": "300"
+    },
+    "VariableID:137:1474": {
+      "cssVar": "--uedp-blue-400",
+      "value": "#60A5FA",
+      "type": "color",
+      "family": "blue",
+      "shade": "400"
+    },
+    "VariableID:137:1475": {
+      "cssVar": "--uedp-blue-500",
+      "value": "#3B82F6",
+      "type": "color",
+      "family": "blue",
+      "shade": "500"
+    },
+    "VariableID:137:1476": {
+      "cssVar": "--uedp-blue-600",
+      "value": "#2563EB",
+      "type": "color",
+      "family": "blue",
+      "shade": "600"
+    },
+    "VariableID:137:1477": {
+      "cssVar": "--uedp-blue-700",
+      "value": "#1D4ED8",
+      "type": "color",
+      "family": "blue",
+      "shade": "700"
+    },
+    "VariableID:137:1478": {
+      "cssVar": "--uedp-blue-800",
+      "value": "#1E40AF",
+      "type": "color",
+      "family": "blue",
+      "shade": "800"
+    },
+    "VariableID:137:1479": {
+      "cssVar": "--uedp-blue-900",
+      "value": "#1E3A8A",
+      "type": "color",
+      "family": "blue",
+      "shade": "900"
+    },
+    "VariableID:137:1480": {
+      "cssVar": "--uedp-blue-950",
+      "value": "#172554",
+      "type": "color",
+      "family": "blue",
+      "shade": "950"
+    },
+    "VariableID:137:1481": {
+      "cssVar": "--uedp-indigo-50",
+      "value": "#EEF2FF",
+      "type": "color",
+      "family": "indigo",
+      "shade": "50"
+    },
+    "VariableID:137:1482": {
+      "cssVar": "--uedp-indigo-100",
+      "value": "#E0E7FF",
+      "type": "color",
+      "family": "indigo",
+      "shade": "100"
+    },
+    "VariableID:137:1483": {
+      "cssVar": "--uedp-indigo-200",
+      "value": "#C7D2FE",
+      "type": "color",
+      "family": "indigo",
+      "shade": "200"
+    },
+    "VariableID:137:1484": {
+      "cssVar": "--uedp-indigo-300",
+      "value": "#A5B4FC",
+      "type": "color",
+      "family": "indigo",
+      "shade": "300"
+    },
+    "VariableID:137:1485": {
+      "cssVar": "--uedp-indigo-400",
+      "value": "#818CF8",
+      "type": "color",
+      "family": "indigo",
+      "shade": "400"
+    },
+    "VariableID:137:1486": {
+      "cssVar": "--uedp-indigo-500",
+      "value": "#6366F1",
+      "type": "color",
+      "family": "indigo",
+      "shade": "500"
+    },
+    "VariableID:137:1487": {
+      "cssVar": "--uedp-indigo-600",
+      "value": "#4F46E5",
+      "type": "color",
+      "family": "indigo",
+      "shade": "600"
+    },
+    "VariableID:137:1488": {
+      "cssVar": "--uedp-indigo-700",
+      "value": "#4338CA",
+      "type": "color",
+      "family": "indigo",
+      "shade": "700"
+    },
+    "VariableID:137:1489": {
+      "cssVar": "--uedp-indigo-800",
+      "value": "#3730A3",
+      "type": "color",
+      "family": "indigo",
+      "shade": "800"
+    },
+    "VariableID:137:1490": {
+      "cssVar": "--uedp-indigo-900",
+      "value": "#312E81",
+      "type": "color",
+      "family": "indigo",
+      "shade": "900"
+    },
+    "VariableID:137:1491": {
+      "cssVar": "--uedp-indigo-950",
+      "value": "#1E1B4B",
+      "type": "color",
+      "family": "indigo",
+      "shade": "950"
+    },
+    "VariableID:137:1492": {
+      "cssVar": "--uedp-violet-50",
+      "value": "#F5F3FF",
+      "type": "color",
+      "family": "violet",
+      "shade": "50"
+    },
+    "VariableID:137:1493": {
+      "cssVar": "--uedp-violet-100",
+      "value": "#EDE9FE",
+      "type": "color",
+      "family": "violet",
+      "shade": "100"
+    },
+    "VariableID:137:1494": {
+      "cssVar": "--uedp-violet-200",
+      "value": "#DDD6FE",
+      "type": "color",
+      "family": "violet",
+      "shade": "200"
+    },
+    "VariableID:137:1495": {
+      "cssVar": "--uedp-violet-300",
+      "value": "#C4B5FD",
+      "type": "color",
+      "family": "violet",
+      "shade": "300"
+    },
+    "VariableID:137:1496": {
+      "cssVar": "--uedp-violet-400",
+      "value": "#A78BFA",
+      "type": "color",
+      "family": "violet",
+      "shade": "400"
+    },
+    "VariableID:137:1497": {
+      "cssVar": "--uedp-violet-500",
+      "value": "#8B5CF6",
+      "type": "color",
+      "family": "violet",
+      "shade": "500"
+    },
+    "VariableID:137:1498": {
+      "cssVar": "--uedp-violet-600",
+      "value": "#7C3AED",
+      "type": "color",
+      "family": "violet",
+      "shade": "600"
+    },
+    "VariableID:137:1499": {
+      "cssVar": "--uedp-violet-700",
+      "value": "#6D28D9",
+      "type": "color",
+      "family": "violet",
+      "shade": "700"
+    },
+    "VariableID:137:1500": {
+      "cssVar": "--uedp-violet-800",
+      "value": "#5B21B6",
+      "type": "color",
+      "family": "violet",
+      "shade": "800"
+    },
+    "VariableID:137:1501": {
+      "cssVar": "--uedp-violet-900",
+      "value": "#4C1D95",
+      "type": "color",
+      "family": "violet",
+      "shade": "900"
+    },
+    "VariableID:137:1502": {
+      "cssVar": "--uedp-violet-950",
+      "value": "#2E1065",
+      "type": "color",
+      "family": "violet",
+      "shade": "950"
+    },
+    "VariableID:137:1503": {
+      "cssVar": "--uedp-purple-50",
+      "value": "#FAF5FF",
+      "type": "color",
+      "family": "purple",
+      "shade": "50"
+    },
+    "VariableID:137:1504": {
+      "cssVar": "--uedp-purple-100",
+      "value": "#F3E8FF",
+      "type": "color",
+      "family": "purple",
+      "shade": "100"
+    },
+    "VariableID:137:1505": {
+      "cssVar": "--uedp-purple-200",
+      "value": "#E9D5FF",
+      "type": "color",
+      "family": "purple",
+      "shade": "200"
+    },
+    "VariableID:137:1506": {
+      "cssVar": "--uedp-purple-300",
+      "value": "#D8B4FE",
+      "type": "color",
+      "family": "purple",
+      "shade": "300"
+    },
+    "VariableID:137:1507": {
+      "cssVar": "--uedp-purple-400",
+      "value": "#C084FC",
+      "type": "color",
+      "family": "purple",
+      "shade": "400"
+    },
+    "VariableID:137:1508": {
+      "cssVar": "--uedp-purple-500",
+      "value": "#A855F7",
+      "type": "color",
+      "family": "purple",
+      "shade": "500"
+    },
+    "VariableID:137:1509": {
+      "cssVar": "--uedp-purple-600",
+      "value": "#9333EA",
+      "type": "color",
+      "family": "purple",
+      "shade": "600"
+    },
+    "VariableID:137:1510": {
+      "cssVar": "--uedp-purple-700",
+      "value": "#7E22CE",
+      "type": "color",
+      "family": "purple",
+      "shade": "700"
+    },
+    "VariableID:137:1511": {
+      "cssVar": "--uedp-purple-800",
+      "value": "#6B21A8",
+      "type": "color",
+      "family": "purple",
+      "shade": "800"
+    },
+    "VariableID:137:1512": {
+      "cssVar": "--uedp-purple-900",
+      "value": "#581C87",
+      "type": "color",
+      "family": "purple",
+      "shade": "900"
+    },
+    "VariableID:137:1513": {
+      "cssVar": "--uedp-purple-950",
+      "value": "#3B0764",
+      "type": "color",
+      "family": "purple",
+      "shade": "950"
+    },
+    "VariableID:137:1514": {
+      "cssVar": "--uedp-fuchsia-50",
+      "value": "#FDF4FF",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "50"
+    },
+    "VariableID:137:1515": {
+      "cssVar": "--uedp-fuchsia-100",
+      "value": "#FAE8FF",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "100"
+    },
+    "VariableID:137:1516": {
+      "cssVar": "--uedp-fuchsia-200",
+      "value": "#F5D0FE",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "200"
+    },
+    "VariableID:137:1517": {
+      "cssVar": "--uedp-fuchsia-300",
+      "value": "#F0ABFC",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "300"
+    },
+    "VariableID:137:1518": {
+      "cssVar": "--uedp-fuchsia-400",
+      "value": "#E879F9",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "400"
+    },
+    "VariableID:137:1519": {
+      "cssVar": "--uedp-fuchsia-500",
+      "value": "#D946EF",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "500"
+    },
+    "VariableID:137:1520": {
+      "cssVar": "--uedp-fuchsia-600",
+      "value": "#C026D3",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "600"
+    },
+    "VariableID:137:1521": {
+      "cssVar": "--uedp-fuchsia-700",
+      "value": "#A21CAF",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "700"
+    },
+    "VariableID:137:1522": {
+      "cssVar": "--uedp-fuchsia-800",
+      "value": "#86198F",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "800"
+    },
+    "VariableID:137:1523": {
+      "cssVar": "--uedp-fuchsia-900",
+      "value": "#701A75",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "900"
+    },
+    "VariableID:137:1524": {
+      "cssVar": "--uedp-fuchsia-950",
+      "value": "#4A044E",
+      "type": "color",
+      "family": "fuchsia",
+      "shade": "950"
+    },
+    "VariableID:137:1525": {
+      "cssVar": "--uedp-pink-50",
+      "value": "#FDF2F8",
+      "type": "color",
+      "family": "pink",
+      "shade": "50"
+    },
+    "VariableID:137:1526": {
+      "cssVar": "--uedp-pink-100",
+      "value": "#FCE7F3",
+      "type": "color",
+      "family": "pink",
+      "shade": "100"
+    },
+    "VariableID:137:1527": {
+      "cssVar": "--uedp-pink-200",
+      "value": "#FBCFE8",
+      "type": "color",
+      "family": "pink",
+      "shade": "200"
+    },
+    "VariableID:137:1528": {
+      "cssVar": "--uedp-pink-300",
+      "value": "#F9A8D4",
+      "type": "color",
+      "family": "pink",
+      "shade": "300"
+    },
+    "VariableID:137:1529": {
+      "cssVar": "--uedp-pink-400",
+      "value": "#F472B6",
+      "type": "color",
+      "family": "pink",
+      "shade": "400"
+    },
+    "VariableID:137:1530": {
+      "cssVar": "--uedp-pink-500",
+      "value": "#EC4899",
+      "type": "color",
+      "family": "pink",
+      "shade": "500"
+    },
+    "VariableID:137:1531": {
+      "cssVar": "--uedp-pink-600",
+      "value": "#DB2777",
+      "type": "color",
+      "family": "pink",
+      "shade": "600"
+    },
+    "VariableID:137:1532": {
+      "cssVar": "--uedp-pink-700",
+      "value": "#BE185D",
+      "type": "color",
+      "family": "pink",
+      "shade": "700"
+    },
+    "VariableID:137:1533": {
+      "cssVar": "--uedp-pink-800",
+      "value": "#9D174D",
+      "type": "color",
+      "family": "pink",
+      "shade": "800"
+    },
+    "VariableID:137:1534": {
+      "cssVar": "--uedp-pink-900",
+      "value": "#831843",
+      "type": "color",
+      "family": "pink",
+      "shade": "900"
+    },
+    "VariableID:137:1535": {
+      "cssVar": "--uedp-pink-950",
+      "value": "#500724",
+      "type": "color",
+      "family": "pink",
+      "shade": "950"
+    },
+    "VariableID:137:1536": {
+      "cssVar": "--uedp-rose-50",
+      "value": "#FFF1F2",
+      "type": "color",
+      "family": "rose",
+      "shade": "50"
+    },
+    "VariableID:137:1537": {
+      "cssVar": "--uedp-rose-100",
+      "value": "#FFE4E6",
+      "type": "color",
+      "family": "rose",
+      "shade": "100"
+    },
+    "VariableID:137:1538": {
+      "cssVar": "--uedp-rose-200",
+      "value": "#FECDD3",
+      "type": "color",
+      "family": "rose",
+      "shade": "200"
+    },
+    "VariableID:137:1539": {
+      "cssVar": "--uedp-rose-300",
+      "value": "#FDA4AF",
+      "type": "color",
+      "family": "rose",
+      "shade": "300"
+    },
+    "VariableID:137:1540": {
+      "cssVar": "--uedp-rose-400",
+      "value": "#FB7185",
+      "type": "color",
+      "family": "rose",
+      "shade": "400"
+    },
+    "VariableID:137:1541": {
+      "cssVar": "--uedp-rose-500",
+      "value": "#F43F5E",
+      "type": "color",
+      "family": "rose",
+      "shade": "500"
+    },
+    "VariableID:137:1542": {
+      "cssVar": "--uedp-rose-600",
+      "value": "#E11D48",
+      "type": "color",
+      "family": "rose",
+      "shade": "600"
+    },
+    "VariableID:137:1543": {
+      "cssVar": "--uedp-rose-700",
+      "value": "#BE123C",
+      "type": "color",
+      "family": "rose",
+      "shade": "700"
+    },
+    "VariableID:137:1544": {
+      "cssVar": "--uedp-rose-800",
+      "value": "#9F1239",
+      "type": "color",
+      "family": "rose",
+      "shade": "800"
+    },
+    "VariableID:137:1545": {
+      "cssVar": "--uedp-rose-900",
+      "value": "#881337",
+      "type": "color",
+      "family": "rose",
+      "shade": "900"
+    },
+    "VariableID:137:1546": {
+      "cssVar": "--uedp-rose-950",
+      "value": "#4C0519",
+      "type": "color",
+      "family": "rose",
+      "shade": "950"
+    },
+    "VariableID:137:1548": {
+      "cssVar": "--uedp-rounded-none",
+      "value": "0px",
+      "type": "borderRadius",
+      "key": "rounded-none"
+    },
+    "VariableID:137:1549": {
+      "cssVar": "--uedp-rounded-sm",
+      "value": "2px",
+      "type": "borderRadius",
+      "key": "rounded-sm"
+    },
+    "VariableID:137:1550": {
+      "cssVar": "--uedp-rounded",
+      "value": "4px",
+      "type": "borderRadius",
+      "key": "rounded"
+    },
+    "VariableID:137:1551": {
+      "cssVar": "--uedp-rounded-md",
+      "value": "6px",
+      "type": "borderRadius",
+      "key": "rounded-md"
+    },
+    "VariableID:137:1552": {
+      "cssVar": "--uedp-rounded-lg",
+      "value": "8px",
+      "type": "borderRadius",
+      "key": "rounded-lg"
+    },
+    "VariableID:137:1553": {
+      "cssVar": "--uedp-rounded-xl",
+      "value": "12px",
+      "type": "borderRadius",
+      "key": "rounded-xl"
+    },
+    "VariableID:137:1554": {
+      "cssVar": "--uedp-rounded-2xl",
+      "value": "16px",
+      "type": "borderRadius",
+      "key": "rounded-2xl"
+    },
+    "VariableID:137:1555": {
+      "cssVar": "--uedp-rounded-3xl",
+      "value": "24px",
+      "type": "borderRadius",
+      "key": "rounded-3xl"
+    },
+    "VariableID:137:1556": {
+      "cssVar": "--uedp-rounded-full",
+      "value": "9999px",
+      "type": "borderRadius",
+      "key": "rounded-full"
+    },
+    "VariableID:137:1557": {
+      "cssVar": "--uedp-gap-0",
+      "value": "0px",
+      "type": "gap",
+      "key": "gap-0"
+    },
+    "VariableID:137:1558": {
+      "cssVar": "--uedp-gap-px",
+      "value": "1px",
+      "type": "gap",
+      "key": "gap-px"
+    },
+    "VariableID:137:1559": {
+      "cssVar": "--uedp-gap-0-5",
+      "value": "2px",
+      "type": "gap",
+      "key": "gap-0,5"
+    },
+    "VariableID:137:1560": {
+      "cssVar": "--uedp-gap-1",
+      "value": "4px",
+      "type": "gap",
+      "key": "gap-1"
+    },
+    "VariableID:158:1789": {
+      "cssVar": "--uedp-gap-1-5",
+      "value": "6px",
+      "type": "gap",
+      "key": "gap-1,5"
+    },
+    "VariableID:137:1561": {
+      "cssVar": "--uedp-gap-2",
+      "value": "8px",
+      "type": "gap",
+      "key": "gap-2"
+    },
+    "VariableID:137:1562": {
+      "cssVar": "--uedp-gap-3",
+      "value": "12px",
+      "type": "gap",
+      "key": "gap-3"
+    },
+    "VariableID:137:1563": {
+      "cssVar": "--uedp-gap-4",
+      "value": "16px",
+      "type": "gap",
+      "key": "gap-4"
+    },
+    "VariableID:137:1564": {
+      "cssVar": "--uedp-gap-5",
+      "value": "20px",
+      "type": "gap",
+      "key": "gap-5"
+    },
+    "VariableID:137:1565": {
+      "cssVar": "--uedp-gap-6",
+      "value": "24px",
+      "type": "gap",
+      "key": "gap-6"
+    },
+    "VariableID:137:1566": {
+      "cssVar": "--uedp-gap-7",
+      "value": "28px",
+      "type": "gap",
+      "key": "gap-7"
+    },
+    "VariableID:137:1567": {
+      "cssVar": "--uedp-gap-8",
+      "value": "32px",
+      "type": "gap",
+      "key": "gap-8"
+    },
+    "VariableID:137:1568": {
+      "cssVar": "--uedp-gap-9",
+      "value": "36px",
+      "type": "gap",
+      "key": "gap-9"
+    },
+    "VariableID:137:1569": {
+      "cssVar": "--uedp-gap-10",
+      "value": "40px",
+      "type": "gap",
+      "key": "gap-10"
+    },
+    "VariableID:137:1570": {
+      "cssVar": "--uedp-gap-11",
+      "value": "44px",
+      "type": "gap",
+      "key": "gap-11"
+    },
+    "VariableID:137:1571": {
+      "cssVar": "--uedp-gap-12",
+      "value": "48px",
+      "type": "gap",
+      "key": "gap-12"
+    },
+    "VariableID:314:34": {
+      "cssVar": "--uedp-gap-14",
+      "value": "56px",
+      "type": "gap",
+      "key": "gap-14"
+    },
+    "VariableID:314:35": {
+      "cssVar": "--uedp-gap-16",
+      "value": "64px",
+      "type": "gap",
+      "key": "gap-16"
+    },
+    "VariableID:394:5325": {
+      "cssVar": "--uedp-gap-18",
+      "value": "72px",
+      "type": "gap",
+      "key": "gap-18"
+    },
+    "VariableID:394:5324": {
+      "cssVar": "--uedp-gap-20",
+      "value": "80px",
+      "type": "gap",
+      "key": "gap-20"
+    },
+    "VariableID:394:5326": {
+      "cssVar": "--uedp-gap-24",
+      "value": "96px",
+      "type": "gap",
+      "key": "gap-24"
+    },
+    "VariableID:394:5327": {
+      "cssVar": "--uedp-gap-28",
+      "value": "112px",
+      "type": "gap",
+      "key": "gap-28"
+    },
+    "VariableID:394:5328": {
+      "cssVar": "--uedp-gap-32",
+      "value": "128px",
+      "type": "gap",
+      "key": "gap-32"
+    },
+    "VariableID:394:5329": {
+      "cssVar": "--uedp-gap-64",
+      "value": "256px",
+      "type": "gap",
+      "key": "gap-64"
+    },
+    "VariableID:459:1247": {
+      "cssVar": "--uedp-padding-0",
+      "value": "0px",
+      "type": "padding",
+      "key": "p-0"
+    },
+    "VariableID:459:1248": {
+      "cssVar": "--uedp-padding-0-5",
+      "value": "2px",
+      "type": "padding",
+      "key": "p-0,5"
+    },
+    "VariableID:459:1249": {
+      "cssVar": "--uedp-padding-1",
+      "value": "4px",
+      "type": "padding",
+      "key": "p-1"
+    },
+    "VariableID:459:1250": {
+      "cssVar": "--uedp-padding-1-5",
+      "value": "6px",
+      "type": "padding",
+      "key": "p-1,5"
+    },
+    "VariableID:459:1251": {
+      "cssVar": "--uedp-padding-2",
+      "value": "8px",
+      "type": "padding",
+      "key": "p-2"
+    },
+    "VariableID:459:1252": {
+      "cssVar": "--uedp-padding-2-5",
+      "value": "10px",
+      "type": "padding",
+      "key": "p-2,5"
+    },
+    "VariableID:459:1253": {
+      "cssVar": "--uedp-padding-3",
+      "value": "12px",
+      "type": "padding",
+      "key": "p-3"
+    },
+    "VariableID:459:1254": {
+      "cssVar": "--uedp-padding-3-5",
+      "value": "14px",
+      "type": "padding",
+      "key": "p-3,5"
+    },
+    "VariableID:459:1255": {
+      "cssVar": "--uedp-padding-4",
+      "value": "16px",
+      "type": "padding",
+      "key": "p-4"
+    },
+    "VariableID:459:1256": {
+      "cssVar": "--uedp-padding-5",
+      "value": "20px",
+      "type": "padding",
+      "key": "p-5"
+    },
+    "VariableID:459:1257": {
+      "cssVar": "--uedp-padding-6",
+      "value": "24px",
+      "type": "padding",
+      "key": "p-6"
+    },
+    "VariableID:459:1258": {
+      "cssVar": "--uedp-padding-7",
+      "value": "28px",
+      "type": "padding",
+      "key": "p-7"
+    },
+    "VariableID:459:1259": {
+      "cssVar": "--uedp-padding-8",
+      "value": "32px",
+      "type": "padding",
+      "key": "p-8"
+    },
+    "VariableID:459:1260": {
+      "cssVar": "--uedp-padding-9",
+      "value": "36px",
+      "type": "padding",
+      "key": "p-9"
+    },
+    "VariableID:459:1261": {
+      "cssVar": "--uedp-padding-10",
+      "value": "40px",
+      "type": "padding",
+      "key": "p-10"
+    },
+    "VariableID:459:1262": {
+      "cssVar": "--uedp-padding-11",
+      "value": "44px",
+      "type": "padding",
+      "key": "p-11"
+    },
+    "VariableID:459:1263": {
+      "cssVar": "--uedp-padding-12",
+      "value": "48px",
+      "type": "padding",
+      "key": "p-12"
+    },
+    "VariableID:394:5330": {
+      "cssVar": "--uedp-opacity-0",
+      "value": "0",
+      "type": "opacity",
+      "key": "opacity-0"
+    },
+    "VariableID:394:5331": {
+      "cssVar": "--uedp-opacity-5",
+      "value": "0.05",
+      "type": "opacity",
+      "key": "opacity-5"
+    },
+    "VariableID:394:5332": {
+      "cssVar": "--uedp-opacity-10",
+      "value": "0.1",
+      "type": "opacity",
+      "key": "opacity-10"
+    },
+    "VariableID:394:5333": {
+      "cssVar": "--uedp-opacity-20",
+      "value": "0.2",
+      "type": "opacity",
+      "key": "opacity-20"
+    },
+    "VariableID:394:5334": {
+      "cssVar": "--uedp-opacity-25",
+      "value": "0.25",
+      "type": "opacity",
+      "key": "opacity-25"
+    },
+    "VariableID:394:5335": {
+      "cssVar": "--uedp-opacity-30",
+      "value": "0.3",
+      "type": "opacity",
+      "key": "opacity-30"
+    },
+    "VariableID:394:5336": {
+      "cssVar": "--uedp-opacity-40",
+      "value": "0.4",
+      "type": "opacity",
+      "key": "opacity-40"
+    },
+    "VariableID:394:5337": {
+      "cssVar": "--uedp-opacity-50",
+      "value": "0.5",
+      "type": "opacity",
+      "key": "opacity-50"
+    },
+    "VariableID:394:5338": {
+      "cssVar": "--uedp-opacity-60",
+      "value": "0.6",
+      "type": "opacity",
+      "key": "opacity-60"
+    },
+    "VariableID:394:5339": {
+      "cssVar": "--uedp-opacity-70",
+      "value": "0.7",
+      "type": "opacity",
+      "key": "opacity-70"
+    },
+    "VariableID:394:5340": {
+      "cssVar": "--uedp-opacity-80",
+      "value": "0.8",
+      "type": "opacity",
+      "key": "opacity-80"
+    },
+    "VariableID:394:5341": {
+      "cssVar": "--uedp-opacity-90",
+      "value": "0.9",
+      "type": "opacity",
+      "key": "opacity-90"
+    },
+    "VariableID:394:5342": {
+      "cssVar": "--uedp-opacity-95",
+      "value": "0.95",
+      "type": "opacity",
+      "key": "opacity-95"
+    },
+    "VariableID:394:5343": {
+      "cssVar": "--uedp-opacity-100",
+      "value": "1",
+      "type": "opacity",
+      "key": "opacity-100"
+    },
+    "VariableID:528:3950": {
+      "cssVar": "--uedp-max-w-xs",
+      "value": "320px",
+      "type": "maxWidth",
+      "key": "max-w-xs"
+    },
+    "VariableID:528:3949": {
+      "cssVar": "--uedp-max-w-sm",
+      "value": "384px",
+      "type": "maxWidth",
+      "key": "max-w-sm"
+    },
+    "VariableID:528:3951": {
+      "cssVar": "--uedp-max-w-md",
+      "value": "448px",
+      "type": "maxWidth",
+      "key": "max-w-md"
+    },
+    "VariableID:528:3952": {
+      "cssVar": "--uedp-max-w-lg",
+      "value": "512px",
+      "type": "maxWidth",
+      "key": "max-w-lg"
+    },
+    "VariableID:535:5210": {
+      "cssVar": "--uedp-max-w-xl",
+      "value": "576px",
+      "type": "maxWidth",
+      "key": "max-w-xl"
+    },
+    "VariableID:535:5211": {
+      "cssVar": "--uedp-max-w-2xl",
+      "value": "672px",
+      "type": "maxWidth",
+      "key": "max-w-2xl"
+    },
+    "VariableID:535:5212": {
+      "cssVar": "--uedp-max-w-3xl",
+      "value": "768px",
+      "type": "maxWidth",
+      "key": "max-w-3xl"
+    },
+    "VariableID:535:5213": {
+      "cssVar": "--uedp-max-w-4xl",
+      "value": "896px",
+      "type": "maxWidth",
+      "key": "max-w-4xl"
+    },
+    "VariableID:535:5214": {
+      "cssVar": "--uedp-max-w-5xl",
+      "value": "1024px",
+      "type": "maxWidth",
+      "key": "max-w-5xl"
+    },
+    "VariableID:535:5215": {
+      "cssVar": "--uedp-max-w-6xl",
+      "value": "1152px",
+      "type": "maxWidth",
+      "key": "max-w-6xl"
+    },
+    "VariableID:535:5216": {
+      "cssVar": "--uedp-max-w-7xl",
+      "value": "1280px",
+      "type": "maxWidth",
+      "key": "max-w-7xl"
+    },
+    "VariableID:535:5217": {
+      "cssVar": "--uedp-max-w-screen-sm",
+      "value": "640px",
+      "type": "maxWidth",
+      "key": "max-w-screen-sm"
+    },
+    "VariableID:535:5218": {
+      "cssVar": "--uedp-max-w-screen-md",
+      "value": "768px",
+      "type": "maxWidth",
+      "key": "max-w-screen-md"
+    },
+    "VariableID:535:5219": {
+      "cssVar": "--uedp-max-w-screen-lg",
+      "value": "1024px",
+      "type": "maxWidth",
+      "key": "max-w-screen-lg"
+    },
+    "VariableID:535:5220": {
+      "cssVar": "--uedp-max-w-screen-xl",
+      "value": "1280px",
+      "type": "maxWidth",
+      "key": "max-w-screen-xl"
+    },
+    "VariableID:535:5221": {
+      "cssVar": "--uedp-max-w-screen-2xl",
+      "value": "1536px",
+      "type": "maxWidth",
+      "key": "max-w-screen-2xl"
+    }
+  }
+}

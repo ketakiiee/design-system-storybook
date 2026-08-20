@@ -1,0 +1,30 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MEASUREMENT_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MEASUREMENT_ID', {
+    send_page_view: false // Manual tracking on route change
+  });
+
+  // Track SPA Storybook route changes on hashchange and popstate
+  function trackStoryNavigation() {
+    var storyPath = window.location.hash || window.location.pathname + window.location.search;
+    gtag('event', 'page_view', {
+      page_title: document.title,
+      page_location: window.location.href,
+      page_path: storyPath
+    });
+    console.log('[GA4] Tracked story view:', storyPath);
+  }
+
+  window.addEventListener('hashchange', trackStoryNavigation);
+  window.addEventListener('popstate', trackStoryNavigation);
+  window.addEventListener('load', trackStoryNavigation);
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">

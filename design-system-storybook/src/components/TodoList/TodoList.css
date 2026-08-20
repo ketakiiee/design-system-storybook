@@ -1,0 +1,181 @@
+/* Preserved Figma Layer: Todo List (id: 2105:2654) */
+.figma-todo-list {
+  background-color: var(--uedp-white, #FFFFFF);
+  border: 1px solid var(--uedp-slate-200, #E2E8F0);
+  border-radius: var(--uedp-rounded-xl, 12px);
+  padding: var(--uedp-padding-5, 20px);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  width: 100%;
+  max-width: 480px;
+}
+
+.figma-todo-list__header {
+  margin-bottom: var(--uedp-gap-4, 16px);
+}
+
+.figma-todo-list__title-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.figma-todo-list__title {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--uedp-slate-900, #0F172A);
+}
+
+.figma-todo-list__badge {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--uedp-blue-600, #2563EB);
+  background-color: var(--uedp-blue-50, #EFF6FF);
+  padding: 4px 8px;
+  border-radius: var(--uedp-rounded-full, 9999px);
+}
+
+.figma-todo-list__add-form {
+  display: flex;
+  gap: var(--uedp-gap-2, 8px);
+  margin-bottom: var(--uedp-gap-4, 16px);
+}
+
+.figma-todo-list__input {
+  flex: 1;
+  padding: 8px 12px;
+  border: 1px solid var(--uedp-slate-200, #E2E8F0);
+  border-radius: var(--uedp-rounded-md, 6px);
+  font-size: 14px;
+  font-family: inherit;
+  outline: none;
+}
+
+.figma-todo-list__input:focus {
+  border-color: var(--uedp-blue-600, #2563EB);
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
+}
+
+.figma-todo-list__add-btn {
+  padding: 8px 16px;
+  background-color: var(--uedp-blue-600, #2563EB);
+  color: var(--uedp-white, #FFFFFF);
+  border: none;
+  border-radius: var(--uedp-rounded-md, 6px);
+  font-weight: 500;
+  font-size: 13px;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.figma-todo-list__add-btn:hover:not(:disabled) {
+  background-color: var(--uedp-blue-700, #1D4ED8);
+}
+
+.figma-todo-list__add-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.figma-todo-list__items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--uedp-gap-2, 8px);
+}
+
+.figma-todo-list__item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  background-color: var(--uedp-slate-50, #F8FAFC);
+  border-radius: var(--uedp-rounded-lg, 8px);
+  transition: all 0.15s ease;
+}
+
+.figma-todo-list__item:hover {
+  background-color: var(--uedp-slate-100, #F1F5F9);
+}
+
+.figma-todo-list__item--completed {
+  opacity: 0.65;
+}
+
+.figma-todo-list__item--completed .figma-todo-list__text {
+  text-decoration: line-through;
+  color: var(--uedp-slate-500, #64748B);
+}
+
+.figma-todo-list__label {
+  display: flex;
+  align-items: center;
+  gap: var(--uedp-gap-3, 12px);
+  cursor: pointer;
+  flex: 1;
+}
+
+.figma-todo-list__checkbox {
+  display: none;
+}
+
+.figma-todo-list__checkbox-custom {
+  width: 18px;
+  height: 18px;
+  border-radius: var(--uedp-rounded, 4px);
+  border: 1.5px solid var(--uedp-slate-300, #CBD5E1);
+  background-color: var(--uedp-white, #FFFFFF);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--uedp-white, #FFFFFF);
+  transition: all 0.15s ease;
+  flex-shrink: 0;
+}
+
+.figma-todo-list__checkbox:checked + .figma-todo-list__checkbox-custom {
+  background-color: var(--uedp-blue-600, #2563EB);
+  border-color: var(--uedp-blue-600, #2563EB);
+}
+
+.figma-todo-list__text {
+  font-size: 14px;
+  color: var(--uedp-slate-800, #1E293B);
+  transition: color 0.15s ease;
+}
+
+.figma-todo-list__actions {
+  display: flex;
+  align-items: center;
+  gap: var(--uedp-gap-2, 8px);
+}
+
+.figma-todo-list__tag {
+  font-size: 11px;
+  padding: 2px 6px;
+  border-radius: var(--uedp-rounded, 4px);
+  background-color: var(--uedp-slate-200, #E2E8F0);
+  color: var(--uedp-slate-700, #334155);
+}
+
+.figma-todo-list__delete-btn {
+  background: none;
+  border: none;
+  color: var(--uedp-slate-400, #94A3B8);
+  cursor: pointer;
+  padding: 4px;
+  border-radius: var(--uedp-rounded, 4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s ease;
+}
+
+.figma-todo-list__delete-btn:hover {
+  color: var(--uedp-red-600, #DC2626);
+}
+
+.figma-todo-list__empty {
+  text-align: center;
+  padding: 24px;
+  color: var(--uedp-slate-400, #94A3B8);
+  font-size: 14px;
+}

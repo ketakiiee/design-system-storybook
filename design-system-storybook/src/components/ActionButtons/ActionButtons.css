@@ -1,0 +1,78 @@
+/* Preserved Figma Layers: Button 01 to Button 05 (ids: 2105:3181 to 2105:3189) */
+.figma-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--uedp-gap-2, 8px);
+  padding: 8px 16px;
+  border-radius: var(--uedp-rounded-md, 6px);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  border: 1px solid transparent;
+  outline: none;
+}
+
+.figma-action-btn__badge {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 5px;
+  border-radius: var(--uedp-rounded, 4px);
+  background: rgba(0, 0, 0, 0.1);
+}
+
+/* Button 01 - Primary */
+.figma-action-btn--01 {
+  background-color: var(--uedp-blue-600, #2563EB);
+  color: var(--uedp-white, #FFFFFF);
+}
+.figma-action-btn--01:hover:not(:disabled) {
+  background-color: var(--uedp-blue-700, #1D4ED8);
+}
+
+/* Button 02 - Subtle Slate */
+.figma-action-btn--02 {
+  background-color: var(--uedp-slate-100, #F1F5F9);
+  color: var(--uedp-slate-800, #1E293B);
+  border-color: var(--uedp-slate-200, #E2E8F0);
+}
+.figma-action-btn--02:hover:not(:disabled) {
+  background-color: var(--uedp-slate-200, #E2E8F0);
+}
+
+/* Button 03 - Ghost */
+.figma-action-btn--03 {
+  background-color: transparent;
+  color: var(--uedp-slate-600, #475569);
+  border-color: var(--uedp-slate-300, #CBD5E1);
+}
+.figma-action-btn--03:hover:not(:disabled) {
+  background-color: var(--uedp-slate-50, #F8FAFC);
+  color: var(--uedp-slate-900, #0F172A);
+}
+
+/* Button 04 - Danger */
+.figma-action-btn--04 {
+  background-color: var(--uedp-red-50, #FEF2F2);
+  color: var(--uedp-red-600, #DC2626);
+  border-color: var(--uedp-red-200, #FECACA);
+}
+.figma-action-btn--04:hover:not(:disabled) {
+  background-color: var(--uedp-red-100, #FEE2E2);
+}
+
+/* Button 05 - Success */
+.figma-action-btn--05 {
+  background-color: var(--uedp-emerald-50, #ECFDF5);
+  color: var(--uedp-emerald-700, #047857);
+  border-color: var(--uedp-emerald-200, #A7F3D0);
+}
+.figma-action-btn--05:hover:not(:disabled) {
+  background-color: var(--uedp-emerald-100, #D1FAE5);
+}
+
+.figma-action-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
