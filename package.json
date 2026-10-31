@@ -1,0 +1,7 @@
+{
+  "name": "design-system-storybook-root",
+  "private": true,
+  "scripts": {
+    "build": "cd design-system-storybook && npm install --legacy-peer-deps && npm run build-storybook"
+  }
+}
